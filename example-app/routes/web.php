@@ -17,6 +17,6 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('index.php', function () {
-    return view('index.php');
+Route::get('index', function () {
+    return view('index');
 });
