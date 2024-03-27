@@ -21,7 +21,7 @@
                 &nbsp;
             </div>
             <div class="col">
-                Column
+                <!-- Icon para mudar o tema do site -->
             </div>
         </div>
     </div>
