@@ -42,13 +42,13 @@
 
                         <!-- Cursos da ETEC -->
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="home">Administração</a></li>
+                            <li><a class="dropdown-item" href="adm">Administração</a></li>
                             <li><a class="dropdown-item" href="home">Contabilidede</a></li>
-                            <li><a class="dropdown-item" href="home">Novotec Desenvolvimento de Sistemas AMS</a></li>
-                            <li><a class="dropdown-item" href="home">Desenvolvimento de Sistemas</a></li>
-                            <li><a class="dropdown-item" href="home">Logística</a></li>
-                            <li><a class="dropdown-item" href="home">Recursos Humanos</a></li>
-                            <li><a class="dropdown-item" href="home">Serviços Jurídicos</a></li>
+                            <li><a class="dropdown-item" href="ds_ams">Novotec Desenvolvimento de Sistemas AMS</a></li>
+                            <li><a class="dropdown-item" href="ds">Desenvolvimento de Sistemas</a></li>
+                            <li><a class="dropdown-item" href="log">Logística</a></li>
+                            <li><a class="dropdown-item" href="rh">Recursos Humanos</a></li>
+                            <li><a class="dropdown-item" href="jur">Serviços Jurídicos</a></li>
                         </ul>
                     </li>
 
@@ -60,26 +60,26 @@
 
                         <!-- Opções -->
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="#">Nossa história</a></li>
-                            <li><a class="dropdown-item" href="#">Infraestrutura</a></li>
-                            <li><a class="dropdown-item" href="#">Plano Plurianual de Gestão</a></li>
-                            <li><a class="dropdown-item" href="#">Manual do Aluno</a></li>
-                            <li><a class="dropdown-item" href="#">Logística</a></li>
-                            <li><a class="dropdown-item" href="#">Regimento Comum das Etecs</a></li>
+                            <li><a class="dropdown-item" href="home">Nossa história</a></li>
+                            <li><a class="dropdown-item" href="home">Infraestrutura</a></li>
+                            <li><a class="dropdown-item" href="home">Plano Plurianual de Gestão</a></li>
+                            <li><a class="dropdown-item" href="home">Manual do Aluno</a></li>
+                            <li><a class="dropdown-item" href="home">Logística</a></li>
+                            <li><a class="dropdown-item" href="home">Regimento Comum das Etecs</a></li>
                         </ul>
                     </li>
 
                     <!-- Departamentos -->
                     <li class="nav-item dropdown ">
-                        <a class="nav-link dropdown-toggle" href="#" role="button" style="margin-top: 5px; margin-left: 10px; margin-right: 10px;" data-bs-toggle="dropdown" aria-expanded="false">
+                        <a class="nav-link dropdown-toggle" href="home" role="button" style="margin-top: 5px; margin-left: 10px; margin-right: 10px;" data-bs-toggle="dropdown" aria-expanded="false">
                             Departamentos
                         </a>
 
                         <!-- Cursos da ETEC -->
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="#">APM - Associação de Pais e Mestres</a></li>
-                            <li><a class="dropdown-item" href="#">Coordenação de Cursos</a></li>
-                            <li><a class="dropdown-item" href="#">Direção</a></li>
+                            <li><a class="dropdown-item" href="https://eteczonaleste.com.br/cursos/administracao/">APM - Associação de Pais e Mestres</a></li>
+                            <li><a class="dropdown-item" href="home">Coordenação de Cursos</a></li>
+                            <li><a class="dropdown-item" href="home">Direção</a></li>
                         </ul>
                     </li>
 

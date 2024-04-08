@@ -20,3 +20,31 @@ Route::get('/', function () {
 Route::get('/home', function () {
     return view('home');
 });
+
+Route::get('/adm', function () {
+    return view('adm');
+});
+
+Route::get('/rh', function () {
+    return view('rh');
+});
+
+Route::get('/log', function () {
+    return view('log');
+});
+
+Route::get('/ds', function () {
+    return view('ds');
+});
+
+Route::get('/jur', function () {
+    return view('jur');
+});
+
+Route::get('/ds_ams', function () {
+    return view('ds-ams');
+});
+
+Route::get('/cont', function () {
+    return view('cont');
+});
