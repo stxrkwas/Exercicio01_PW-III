@@ -98,9 +98,11 @@
     </nav>
 
     <!-- Imagem: -->
-    <div class="position-relative overflow-hidden text-center"> <!-- p-3 p-md-5 m-md-3 -->
-        <img src="/img/home.etec.webp" class="img-fluid" style="max-width: 100%; height: auto;"></img>
-    </div>
+    <img src="/img/home.etec.webp" class="img-fluid" width="100%;" height="100%;"></img>
+    
+    <!-- <div class="position-relative overflow-hidden text-center"> p-3 p-md-5 m-md-3 -->
+        <!-- <img src="/img/home.etec.webp" class="img-fluid" width="100%;" height="100%;"></img>
+    </div> -->
 
     <!-- Barra de pesquisa:  -->
     <div class="container bg-body-tertiary">
