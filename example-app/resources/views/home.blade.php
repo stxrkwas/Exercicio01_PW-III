@@ -99,36 +99,36 @@
 
     <!-- Imagem: -->
     <div class="position-relative overflow-hidden text-center"> <!-- p-3 p-md-5 m-md-3 -->
-        <img src="/img/home.etec.webp" class="img-fluid" width="100%;" height="100%;"></img>
+        <img src="/img/home.etec.webp" class="img-fluid" style="max-width: 100%; height: auto;"></img>
     </div>
 
     <!-- Barra de pesquisa:  -->
-    <div class="container text-center bg-body-tertiary">
+    <div class="container bg-body-tertiary">
         <div class="row bg-body-tertiary"> <!-- align-items-center -->
-            <div class="col bg-body-tertiary">
-                &nbsp;
-            </div>
+            <div class="col">&nbsp;</div>
             <div class="col bg-body-tertiary">
                 <div class="container-fluid mt-5 mb-5 bg-body-tertiary">
                     <form class="d-flex" role="search">
-                        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" height="65px;">
+                        <input class="form-control me-2" type="search" placeholder="O que está buscando?" aria-label="Search" height="65px;">
                     </form>
                 </div>
             </div>
-            <div class="col bg-body-tertiary">
-                &nbsp;
-            </div>
+            <div class="col">&nbsp;</div>
         </div>
     </div>
 
     <!-- Texto e imagem: -->
     <div class="row featurette mt-5">
         <div class="col-md-7 order-md-2 mt-5">
-            <h3 class="featurette-heading fw-normal lh-1">O que a ETEC pode fazer pelo seu FUTURO</h3>
-            <p class="lead lh-base text-align-justify">Another featurette? Of course. More placeholder content here to give you an idea of how this layout would work with some actual real-world content in place.</p>
+            <h3 class="featurette-heading fw-bold lh-1">O que a ETEC pode fazer pelo seu FUTURO ainda HOJE?</h3>
+            <p class="lead lh-base fw-normal text-justify mt-4">Sabemos que às vezes pensar no futuro pode parecer assustador. Traçamos carreiras e planos 
+                profissionais a todo momento em nossos pensamentos, numa busca constante pelo caminho que nos trará o melhor. Mas saiba que a ETEC Zona Leste conhece 
+                os seus anseios e, está aqui, disposta a te apresentar um novo caminho! O futuro não precisa ser assustador. Suas habilidades técnicas e profissionais 
+                podem ser desenvolvidas enquanto você aprende com a gente. Em nossa instituição, nós valorizamos os pequenos passos. 
+                Dê o seu primeiro passo hoje em direção ao futuro. Faça parte da ETEC!</p>
         </div>
         <div class="col-md-5 order-md-1 mt-5">
-            <img src="/img/"></img>
+            <img src="/img/image.png" class="rounded float-start"></img>
         </div>
     </div>
 
