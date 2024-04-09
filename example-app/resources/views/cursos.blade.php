@@ -97,7 +97,7 @@
     </nav>
 
     <!-- Imagem: -->
-    <img class="img-fluid" src="/img/home.etec.webp" width="100%;" height="auto"></img>
+    <img class="img-fluid" src="/img/adm.png" width="100%;" height="660px;"></img>
 
     <!-- Barra de pesquisa:  -->
     <div class="container-fluid bg-body-tertiary">
