@@ -42,7 +42,7 @@
 
                         <!-- Cursos da ETEC -->
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="adm">Administração</a></li>
+                            <li><a class="dropdown-item" href="#secao-adm">Administração</a></li>
                             <li><a class="dropdown-item" href="home">Contabilidede</a></li>
                             <li><a class="dropdown-item" href="ds_ams">Novotec Desenvolvimento de Sistemas AMS</a></li>
                             <li><a class="dropdown-item" href="ds">Desenvolvimento de Sistemas</a></li>
