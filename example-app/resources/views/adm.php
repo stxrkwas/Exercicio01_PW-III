@@ -36,7 +36,7 @@
 
                     <!-- Cursos -->
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="cursos" style="margin-top: 5px; margin-left: 10px; margin-right: 10px;" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        <a class="nav-link dropdown-toggle" href="#" style="margin-top: 5px; margin-left: 10px; margin-right: 10px;" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                             Cursos
                         </a>
 
@@ -71,13 +71,13 @@
 
                     <!-- Departamentos -->
                     <li class="nav-item dropdown ">
-                        <a class="nav-link dropdown-toggle" href="home" role="button" style="margin-top: 5px; margin-left: 10px; margin-right: 10px;" data-bs-toggle="dropdown" aria-expanded="false">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" style="margin-top: 5px; margin-left: 10px; margin-right: 10px;" data-bs-toggle="dropdown" aria-expanded="false">
                             Departamentos
                         </a>
 
                         <!-- Cursos da ETEC -->
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="https://eteczonaleste.com.br/cursos/administracao/">APM - Associação de Pais e Mestres</a></li>
+                            <li><a class="dropdown-item" href="h#">APM - Associação de Pais e Mestres</a></li>
                             <li><a class="dropdown-item" href="home">Coordenação de Cursos</a></li>
                             <li><a class="dropdown-item" href="home">Direção</a></li>
                         </ul>
@@ -116,45 +116,49 @@
 
     <!-- (1) Texto e imagem: -->
     <div class="row featurette mt-5">
-        <div class="col-md-7 order-md-2 mt-3 ms-5">
-            <h3 class="featurette-heading fw-bold lh-base ms-5" style="text-align: justify;">O que a ETEC pode fazer pelo seu FUTURO ainda HOJE?</h3>
-            <p class="lead lh-base fw-normal text-justify mt-4 ms-5">Sabemos que às vezes pensar no futuro pode parecer assustador.
-                Traçamos carreiras e planos profissionais a todo momento em nossos pensamentos,
-                numa busca constante pelo caminho que nos trará o melhor. Mas saiba que a ETEC Zona
-                Leste conhece os seus anseios e, está aqui, disposta a te apresentar um novo caminho!
-                O futuro não precisa ser assustador. Suas habilidades técnicas e profissionais podem
-                ser desenvolvidas enquanto você aprende com a gente. Em nossa instituição, nós valorizamos os pequenos passos.
-                Dê o seu primeiro passo hoje em direção ao futuro. Faça parte da ETEC!</p>
+        <div class="col-md-7 order-md-1 mt-3 ms-5">
+            <h3 class="featurette-heading fw-bold lh-base ms-5">Sobre</h3>
+            <p class="lead lh-base fw-normal mt-4 ms-5">Como funcionam as organizações, desde empresas privadas até ONGs, passando por 
+                órgãos públicos, comércio e indústria. O estudante vai precisar de conhecimentos de língua portuguesa, matemática, história e geografia 
+                para compreender os principais assuntos do curso, como história da administração, evolução das organizações ao longo do tempo, 
+                contabilidade, leis que regulam o funcionamento das empresas e redação de documentos. O aluno vai aprender ainda a analisar as chances de 
+                um negócio ou produto ser bem-sucedido e o comportamento do consumidor. Estudará também técnicas de atendimento ao cliente, 
+                empreendedorismo (iniciativas para realizar novos negócios) e como uma organização planeja alcançar seus objetivos e define suas metas 
+                para o futuro.O candidato que ingressar no curso técnico de Administração, na modalidade AMS, poderá prosseguir os estudos em uma Fatec 
+                no curso superior de tecnologia em Processos Gerenciais.</p>
         </div>
-        <div class="col-md-3 order-md-1 mt-3 ms-5">
-        <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto ms-5" width="600" height="600" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false" src="/img/image1.png"></img>
+        <div class="col-md-3 order-md-2 mt-5 ms-5">
+        <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="600" height="600" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false" src="/img/adm1.png"></img>
         </div>
     </div>
 
     <!-- (2) Texto e imagem: -->
     <div class="row featurette mt-5">
-        <div class="col-md-7 order-md-1 mt-3 ms-5">
-            <h3 class="featurette-heading fw-bold lh-base ms-5" style="text-align: justify;">Excelência Educacional</h3>
-            <p class="lead lh-base fw-normal text-justify mt-4 ms-5">Na ETEC Zona Leste, a excelência educacional é a nossa prioridade máxima. 
-                Nossas aulas são ministradas por professores altamente qualificados, proporcionando uma educação satisfatória que combina 
-                conhecimentos acadêmicos sólidos com habilidades práticas essenciais para o mercado de trabalho.</p>
-        </div>
-        <div class="col-md-3 order-md-2 mt-3 ms-5">
-        <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="600" height="600" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false" src="/img/image2.png"></img>
+        <div class="col-md-11 mt-3 ms-5 align-items-center">
+            <h3 class="featurette-heading fw-bold lh-base ms-5 text-center">Área de atuação</h3>
+            <p class="lead lh-base fw-normal text-justify mt-4 ms-5">O técnico em Administração pode trabalhar em vários departamentos. 
+                No setor de compras, por exemplo, pode elaborar pedidos de compra de produtos, cadastrar fornecedores assim como conferir 
+                a entrega das mercadorias adquiridas. Na área de produção, pode fazer planilhas de controle de processos e produtos, 
+                registrando quais já foram produzidos e em qual quantidade. No departamento de vendas, também pode elaborar planilhas 
+                para acompanhar o desempenho das vendas, cadastrar clientes, preencher notas fiscais e gerar boletos bancários. 
+                No setor de Recursos Humanos, o técnico pode trabalhar calculando salários e benefícios dos funcionários e auxiliando 
+                nos processos de contratação e demissão de pessoal. Em qualquer área, pode atender clientes e fornecedores e redigir 
+                documentos, como e-mails, memorandos e atas.</p>
         </div>
     </div>
 
     <!-- (3) Texto e imagem: -->
     <div class="row featurette mt-5">
         <div class="col-md-7 order-md-2 mt-3 ms-5">
-            <h3 class="featurette-heading fw-bold lh-base ms-5">Para além da sala de aula</h3>
-            <p class="lead lh-base fw-normal text-justify mt-4 ms-5">Buscamos levar o conhecimento para além da sala de aula tradicional. 
-                Incentivamos o cultivo de conexões valiosas por meio de networking e oportunidades de carreira. Além do sucesso acadêmico, 
-                nos preocupamos com o desenvolvimento pessoal de nosso corpo estudantil, 
-                oferecendo suporte abrangente, orientação vocacional e programas extracurriculares.</p>
+            <h3 class="featurette-heading fw-bold lh-base ms-5">Onde trabalhar</h3>
+            <p class="lead lh-base fw-normal text-justify mt-4 ms-5">Empresas privadas, seja de comércio, serviço ou indústria, 
+                órgãos públicos (prefeituras, secretarias de governo, ministérios do governo federal etc.) e ONGs.</br>
+                O candidato que ingressar no curso técnico de Administração, na modalidade AMS, 
+                poderá prosseguir os estudos em uma Fatec no curso superior de tecnologia em Processos Gerenciais.
+            </p>
         </div>
         <div class="col-md-3 order-md-1 mt-3 ms-5">
-        <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto ms-5" width="600" height="600" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false" src="/img/image3.png"></img>
+        <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto ms-5" width="600" height="600" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false" src="/img/adm2.png"></img>
         </div>
     </div>
 
