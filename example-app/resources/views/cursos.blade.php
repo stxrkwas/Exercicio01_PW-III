@@ -42,7 +42,7 @@
 
                         <!-- Cursos da ETEC -->
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="adm">Administração</a></li>
+                            <li><a class="dropdown-item" href="#secao-adm">Administração</a></li>
                             <li><a class="dropdown-item" href="home">Contabilidede</a></li>
                             <li><a class="dropdown-item" href="ds_ams">Novotec Desenvolvimento de Sistemas AMS</a></li>
                             <li><a class="dropdown-item" href="ds">Desenvolvimento de Sistemas</a></li>
@@ -117,14 +117,15 @@
     <!-- (1) Texto e imagem: -->
     <div class="row featurette mt-5">
         <div class="col-md-7 order-md-2 mt-3 ms-5">
-            <h3 class="featurette-heading fw-bold lh-base ms-5" style="text-align: justify;">O que a ETEC pode fazer pelo seu FUTURO ainda HOJE?</h3>
-            <p class="lead lh-base fw-normal text-justify mt-4 ms-5">Sabemos que às vezes pensar no futuro pode parecer assustador.
-                Traçamos carreiras e planos profissionais a todo momento em nossos pensamentos,
-                numa busca constante pelo caminho que nos trará o melhor. Mas saiba que a ETEC Zona
-                Leste conhece os seus anseios e, está aqui, disposta a te apresentar um novo caminho!
-                O futuro não precisa ser assustador. Suas habilidades técnicas e profissionais podem
-                ser desenvolvidas enquanto você aprende com a gente. Em nossa instituição, nós valorizamos os pequenos passos.
-                Dê o seu primeiro passo hoje em direção ao futuro. Faça parte da ETEC!</p>
+            <h3 class="featurette-heading fw-bold lh-base ms-5" style="text-align: justify;" id="secao-adm">Administração</h3>
+            <p class="lead lh-base fw-normal text-justify mt-4 ms-5">Como funcionam as organizações, desde empresas privadas até ONGs, passando por 
+                órgãos públicos, comércio e indústria. O estudante vai precisar de conhecimentos de língua portuguesa, matemática, história e geografia 
+                para compreender os principais assuntos do curso, como história da administração, evolução das organizações ao longo do tempo, 
+                contabilidade, leis que regulam o funcionamento das empresas e redação de documentos. O aluno vai aprender ainda a analisar as chances de 
+                um negócio ou produto ser bem-sucedido e o comportamento do consumidor. Estudará também técnicas de atendimento ao cliente, 
+                empreendedorismo (iniciativas para realizar novos negócios) e como uma organização planeja alcançar seus objetivos e define suas metas 
+                para o futuro.O candidato que ingressar no curso técnico de Administração, na modalidade AMS, poderá prosseguir os estudos em uma Fatec 
+                no curso superior de tecnologia em Processos Gerenciais.</p>
         </div>
         <div class="col-md-3 order-md-1 mt-3 ms-5">
         <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto ms-5" width="600" height="600" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false" src="/img/image1.png"></img>
@@ -134,7 +135,7 @@
     <!-- (2) Texto e imagem: -->
     <div class="row featurette mt-5">
         <div class="col-md-7 order-md-1 mt-3 ms-5">
-            <h3 class="featurette-heading fw-bold lh-base ms-5" style="text-align: justify;">Excelência Educacional</h3>
+            <h3 class="featurette-heading fw-bold lh-base ms-5" style="text-align: justify;">Contabilidade</h3>
             <p class="lead lh-base fw-normal text-justify mt-4 ms-5">Na ETEC Zona Leste, a excelência educacional é a nossa prioridade máxima. 
                 Nossas aulas são ministradas por professores altamente qualificados, proporcionando uma educação satisfatória que combina 
                 conhecimentos acadêmicos sólidos com habilidades práticas essenciais para o mercado de trabalho.</p>
@@ -147,7 +148,7 @@
     <!-- (3) Texto e imagem: -->
     <div class="row featurette mt-5">
         <div class="col-md-7 order-md-2 mt-3 ms-5">
-            <h3 class="featurette-heading fw-bold lh-base ms-5">Para além da sala de aula</h3>
+            <h3 class="featurette-heading fw-bold lh-base ms-5">Desenvolvimento de Sistemas</h3>
             <p class="lead lh-base fw-normal text-justify mt-4 ms-5">Buscamos levar o conhecimento para além da sala de aula tradicional. 
                 Incentivamos o cultivo de conexões valiosas por meio de networking e oportunidades de carreira. Além do sucesso acadêmico, 
                 nos preocupamos com o desenvolvimento pessoal de nosso corpo estudantil, 
@@ -161,7 +162,35 @@
     <!-- (4) Texto e imagem: -->
     <div class="row featurette mt-5">
         <div class="col-md-7 order-md-1 mt-3 ms-5">
-            <h3 class="featurette-heading fw-bold lh-base ms-5" style="text-align: justify;">Ambientes favoráveis</h3>
+            <h3 class="featurette-heading fw-bold lh-base ms-5" style="text-align: justify;">Logística</h3>
+            <p class="lead lh-base fw-normal text-justify mt-4 ms-5">Contamos com uma infraestrutura moderna, laboratórios e salas equipadas 
+                com televisões, computadores, notebooks, impressoras 3D e muitos outros componentes propícios aos projetos que desenvolvemos 
+                durante a jornada dos estudantes. Ademais, nossa instituição é envolta em um grande jardim, com árvores de pequeno e médio porte, 
+                plantas e flores, provendo ao nosso corpo estudantil um ambiente mais acolhedor e aconchegante. 
+                Na ETEC Zona Leste, você encontrará um espaço favorável para o impulsionar seu crescimento acadêmico e profissional.</p>
+        </div>
+        <div class="col-md-3 order-md-2 mt-3 ms-5">
+        <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="600" height="600" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false" src="/img/image4.png"></img>
+        </div>
+    </div>
+
+    <!-- (5) Texto e imagem: -->
+    <div class="row featurette mt-5">
+        <div class="col-md-7 order-md-2 mt-3 ms-5">
+            <h3 class="featurette-heading fw-bold lh-base ms-5">Recursos Humanos</h3>
+            <p class="lead lh-base fw-normal text-justify mt-4 ms-5">Buscamos levar o conhecimento para além da sala de aula tradicional. 
+                Incentivamos o cultivo de conexões valiosas por meio de networking e oportunidades de carreira. Além do sucesso acadêmico, 
+                nos preocupamos com o desenvolvimento pessoal de nosso corpo estudantil, 
+                oferecendo suporte abrangente, orientação vocacional e programas extracurriculares.</p>
+        </div>
+        <div class="col-md-3 order-md-1 mt-3 ms-5">
+        <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto ms-5" width="600" height="600" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false" src="/img/image3.png"></img>
+        </div>
+    </div>
+
+    <div class="row featurette mt-5">
+        <div class="col-md-7 order-md-1 mt-3 ms-5">
+            <h3 class="featurette-heading fw-bold lh-base ms-5" style="text-align: justify;">Serviços Jurídicos</h3>
             <p class="lead lh-base fw-normal text-justify mt-4 ms-5">Contamos com uma infraestrutura moderna, laboratórios e salas equipadas 
                 com televisões, computadores, notebooks, impressoras 3D e muitos outros componentes propícios aos projetos que desenvolvemos 
                 durante a jornada dos estudantes. Ademais, nossa instituição é envolta em um grande jardim, com árvores de pequeno e médio porte, 
