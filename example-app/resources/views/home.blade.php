@@ -113,32 +113,36 @@
     </div>
 
     <!-- (1) Texto e imagem: -->
-    <div class="row featurette mt-5">
-        <div class="col-md-7 order-md-2 mt-3 ms-5">
-            <h3 class="featurette-heading fw-bold lh-base ms-5">O que a ETEC pode fazer pelo seu FUTURO ainda HOJE?</h3>
-            <p class="lead lh-base fw-normal text-justify mt-4 ms-5">Sabemos que às vezes pensar no futuro pode parecer assustador.
-                Traçamos carreiras e planos profissionais a todo momento em nossos pensamentos,
-                numa busca constante pelo caminho que nos trará o melhor. Mas saiba que a ETEC Zona
-                Leste conhece os seus anseios e, está aqui, disposta a te apresentar um novo caminho!
-                O futuro não precisa ser assustador. Suas habilidades técnicas e profissionais podem
-                ser desenvolvidas enquanto você aprende com a gente. Em nossa instituição, nós valorizamos os pequenos passos.
-                Dê o seu primeiro passo hoje em direção ao futuro. Faça parte da ETEC!</p>
-        </div>
-        <div class="col-md-3 order-md-1 mt-3 ms-5">
-            <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto ms-5" width="600" height="600" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false" src="/img/image1.png"></img>
+    <div class="container-fluid bg-body-primary">
+        <div class="row mt-5">
+            <div class="col-md-7 order-md-2 mt-3 ms-5">
+                <h3 class="featurette-heading fw-bold lh-base ms-5">O que a ETEC pode fazer pelo seu FUTURO ainda HOJE?</h3>
+                <p class="lead lh-base fw-normal text-justify mt-4 ms-5">Sabemos que às vezes pensar no futuro pode parecer assustador.
+                    Traçamos carreiras e planos profissionais a todo momento em nossos pensamentos,
+                    numa busca constante pelo caminho que nos trará o melhor. Mas saiba que a ETEC Zona
+                    Leste conhece os seus anseios e, está aqui, disposta a te apresentar um novo caminho!
+                    O futuro não precisa ser assustador. Suas habilidades técnicas e profissionais podem
+                    ser desenvolvidas enquanto você aprende com a gente. Em nossa instituição, nós valorizamos os pequenos passos.
+                    Dê o seu primeiro passo hoje em direção ao futuro. Faça parte da ETEC!</p>
+            </div>
+            <div class="col-md-3 order-md-1 mt-3 ms-5">
+                <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto ms-5" width="600" height="600" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false" src="/img/image1.png"></img>
+            </div>
         </div>
     </div>
 
     <!-- (2) Texto e imagem: -->
-    <div class="row featurette mt-5">
-        <div class="col-md-7 order-md-1 mt-3 ms-5">
-            <h3 class="featurette-heading fw-bold lh-base ms-5" style="text-align: justify;">Excelência Educacional</h3>
-            <p class="lead lh-base fw-normal text-justify mt-4 ms-5">Na ETEC Zona Leste, a excelência educacional é a nossa prioridade máxima.
-                Nossas aulas são ministradas por professores altamente qualificados, proporcionando uma educação satisfatória que combina
-                conhecimentos acadêmicos sólidos com habilidades práticas essenciais para o mercado de trabalho.</p>
-        </div>
-        <div class="col-md-3 order-md-2 mt-3 ms-5">
-            <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="600" height="600" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false" src="/img/image2.png"></img>
+    <div class="container-fluid bg-body-primary">
+        <div class="row featurette mt-5">
+            <div class="col-md-7 order-md-1 mt-3 ms-5">
+                <h3 class="featurette-heading fw-bold lh-base ms-5" style="text-align: justify;">Excelência Educacional</h3>
+                <p class="lead lh-base fw-normal text-justify mt-4 ms-5">Na ETEC Zona Leste, a excelência educacional é a nossa prioridade máxima.
+                    Nossas aulas são ministradas por professores altamente qualificados, proporcionando uma educação satisfatória que combina
+                    conhecimentos acadêmicos sólidos com habilidades práticas essenciais para o mercado de trabalho.</p>
+            </div>
+            <div class="col-md-3 order-md-2 mt-3 ms-5">
+                <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="600" height="600" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false" src="/img/image2.png"></img>
+            </div>
         </div>
     </div>
 
