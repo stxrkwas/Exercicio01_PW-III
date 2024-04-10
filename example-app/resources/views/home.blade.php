@@ -114,7 +114,7 @@
         </div>
     </div>
 
-    <!-- (1) Texto e imagem: -->
+    <!-- O que a ETEC pode fazer pelo seu FUTURO ainda HOJE? -->
     <div class="container-fluid bg-body-primary">
         <div class="row mt-5">
             <div class="col-md-7 order-md-2 mt-3 ms-5">
@@ -133,7 +133,7 @@
         </div>
     </div>
 
-    <!-- (2) Texto e imagem: -->
+    <!-- Excelência educacional -->
     <div class="container-fluid bg-body-primary">
         <div class="row featurette mt-5">
             <div class="col-md-7 order-md-1 mt-3 ms-5">
@@ -148,7 +148,7 @@
         </div>
     </div>
 
-    <!-- (3) Texto e imagem: -->
+    <!-- Para além da sala de aula -->
     <div class="container-fluid bg-body-primary">
         <div class="row featurette mt-5">
             <div class="col-md-7 order-md-2 mt-3 ms-5">
@@ -164,7 +164,7 @@
         </div>
     </div>
 
-    <!-- (4) Texto e imagem: -->
+    <!-- Ambientes Favoráveis -->
     <div class="container-fluid bg-body-primary">
         <div class="row featurette mt-5">
             <div class="col-md-7 order-md-1 mt-3 ms-5">
@@ -181,6 +181,7 @@
         </div>
     </div>
 
+    <!-- Rodapé -->
     <div class="container-fluid">
         <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top">
             <p class="col-md-4 mb-0 text-body-secondary">&copy; 2024 ETEC Zona Leste</p>

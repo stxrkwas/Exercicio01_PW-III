@@ -160,16 +160,17 @@
                 <h3 class="featurette-heading fw-bold lh-base ms-2 text-center" id="direcao">Direção da ETEC</h3></br>
 
                 <!-- Diretora -->
-                <h4 class="featurette-heading fw-bold lh-base ms-5 mt-2">Diretora da ETEC</h4>
-                <p class="lead lh-base fw-normal justify-content-between align-items-start mt-1 ms-5">Amanda Bueno</p></br>
+                <h4 class="featurette-heading fw-bold lh-base ms-5 mt-4">Diretora da ETEC</h4>
+                <p class="lead lh-base fw-normal justify-content-between align-items-start mt-1 ms-5">Amanda Bueno</p>
 
                 <!-- Assessor Técnico Administrativo II -->
-                <h4 class="featurette-heading fw-bold lh-base ms-5 mt-2">Assessor Técnico Administrativo II</h4>
+                <h4 class="featurette-heading fw-bold lh-base ms-5 mt-4">Assessor Técnico Administrativo II</h4>
                 <p class="lead lh-base fw-normal justify-content-between align-items-start mt-1 ms-5">Patrick Moreno da Silva</p>
 
                 <!-- Contato -->
-                <h4 class="featurette-heading fw-bold lh-base ms-5 mt-2">Contato</h4>
-                <p class="lead lh-base fw-normal justify-content-between align-items-start mt-1 ms-5">Patrick Moreno da Silva</p>
+                <h4 class="featurette-heading fw-bold lh-base ms-5 mt-4">Contato</h4>
+                <p class="lead lh-base fw-normal justify-content-between align-items-start mt-1 ms-5" style="font-size: 13pt;"><b>Email: </b>e211dir@cps.sp.gov.br</br>
+                <b>Telefones: </b>(11) 2045-4016 | (11) 2045-4011</p>
             </div>
         </div>
     </div>
