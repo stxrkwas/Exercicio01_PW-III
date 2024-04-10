@@ -114,7 +114,7 @@
 
     <!-- (1) Texto e imagem: -->
     <div class="container-fluid bg-body-primary">
-        <div class="row mt-4">
+        <div class="row mt-1">
             <div class="col mt-5 ms-3">
                 <h3 class="featurette-heading fw-bold lh-base ms-2 text-center" id="nossa-his">Nossa História</h3>
                 <p class="lead lh-base fw-normal mt-4 ms-5">Implantada no ano de 2008, na Avenida Águia de Haia,
@@ -135,11 +135,11 @@
 
     <!-- (2) Texto e imagem: -->
     <div class="container-fluid bg-body-primary">
-        <div class="row mt-4">
+        <div class="row mt-1">
             <div class="col mt-5 ms-3">
                 <h3 class="featurette-heading fw-bold lh-base mt-4 ms-5 text-center" id="nossa-infra">Nossa Infraestrutura</h3>
                 <h4 class="featurette-heading fw-bold lh-base mt-4 ms-5 text-start">Patio</h4>
-                <p class="lead lh-base fw-normal text-start ms-5">O pátio da instituição é um verdadeiro refúgio. Árvores, flores e plantas dão ao
+                <p class="lead lh-base fw-normal justify-content-between align-items-center ms-5">O pátio da instituição é um verdadeiro refúgio. Árvores, flores e plantas dão ao
                     ambiente uma atmosfera de serenidade e frescor. É um espaço que convida os alunos a desfrutarem do ar livre enquanto se dedicam às
                     suas atividades acadêmicas e sociais. O pátio principal também foi projetado para promover a interação e o convívio entre os estudantes.
                     Com mesas distribuídas, o espaço oferece oportunidades para uma variedade de atividades sociais e recreativas, desde jogos de tabuleiro
@@ -162,7 +162,7 @@
 
     <!-- (3) Texto e imagem: -->
     <div class="container-fluid bg-body-primary">
-        <div class="row mt-5">
+        <div class="row mt-1">
             <div class="col-md-7 order-md-1 mt-5 ms-5">
                 <h3 class="featurette-heading fw-bold lh-base ms-5" id="plano-plurianual-de-gestao">Plano Plurianual de Gestão</h3>
                 <p class="lead lh-base fw-normal text-justify mt-5 ms-5"></p>
@@ -204,7 +204,7 @@
         <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top">
             <p class="col-md-4 mb-0 text-body-secondary">&copy; 2024 ETEC Zona Leste</p>
 
-            <ul class="nav col-md-4 justify-content-end">
+            <ul class="nav col-md-7 justify-content-end">
                 <li class="nav-item"><a href="/home" class="nav-link px-2 text-body-secondary">Inicio</a></li>
                 <li class="nav-item"><a href="/cursos" class="nav-link px-2 text-body-secondary">Cursos</a></li>
                 <li class="nav-item"><a href="/instituicao" class="nav-link px-2 text-body-secondary">Instituição</a></li>
