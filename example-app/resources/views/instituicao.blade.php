@@ -42,12 +42,12 @@
 
                         <!-- Cursos da ETEC -->
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="#secao-adm">Administração</a></li>
-                            <li><a class="dropdown-item" href="#secao-contabilidade">Contabilidede</a></li>
-                            <li><a class="dropdown-item" href="#secao-ds">Desenvolvimento de Sistemas</a></li>
-                            <li><a class="dropdown-item" href="#secao-log">Logística</a></li>
-                            <li><a class="dropdown-item" href="#secao-rh">Recursos Humanos</a></li>
-                            <li><a class="dropdown-item" href="#secao-jur">Serviços Jurídicos</a></li>
+                            <li><a class="dropdown-item" href="adm/#secao-adm">Administração</a></li>
+                            <li><a class="dropdown-item" href="adm/#secao-contabilidade">Contabilidede</a></li>
+                            <li><a class="dropdown-item" href="adm/#secao-ds">Desenvolvimento de Sistemas</a></li>
+                            <li><a class="dropdown-item" href="adm/#secao-log">Logística</a></li>
+                            <li><a class="dropdown-item" href="adm/#secao-rh">Recursos Humanos</a></li>
+                            <li><a class="dropdown-item" href="adm/#secao-jur">Serviços Jurídicos</a></li>
                         </ul>
                     </li>
 
@@ -59,7 +59,8 @@
 
                         <!-- Opções -->
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="#nossa-his-infra">História & Infraestrutura</a></li>
+                            <li><a class="dropdown-item" href="#nossa-his"> História</a></li>
+                            <li><a class="dropdown-item" href="#nossa-infra"> Infraestrutura</a></li>
                             <li><a class="dropdown-item" href="#plano-plurianual-de-gestao">Plano Plurianual de Gestão</a></li>
                             <li><a class="dropdown-item" href="#manual-do-aluno">Manual do Aluno</a></li>
                             <li><a class="dropdown-item" href="#regimento-comum-das-etecs">Regimento Comum das Etecs</a></li>
@@ -82,12 +83,12 @@
 
                     <!-- Oportunidades -->
                     <li class="nav-item">
-                        <a class="nav-link" style="margin-top: 5px; margin-left: 10px; margin-right: 10px;" aria-current="page" href="index">Oportunidades</a>
+                        <a class="nav-link" style="margin-top: 5px; margin-left: 10px; margin-right: 10px;" aria-current="page" href="oportunidades">Oportunidades</a>
                     </li>
 
                     <!-- Vestibulinho -->
                     <li class="nav-item">
-                        <a class="nav-link" style="margin-top: 5px; margin-left: 10px; margin-right: 300px;" aria-current="page" href="index">Vestibulinho</a>
+                        <a class="nav-link" style="margin-top: 5px; margin-left: 10px; margin-right: 300px;" aria-current="page" href="vestibulinho">Vestibulinho</a>
                     </li>
             </div>
         </div>
@@ -112,18 +113,31 @@
     </div>
 
     <!-- (1) Texto e imagem: -->
-    <div class="row featurette mt-5">
-        <div class="col-md-3 order-md-1 mt-5 ms-5 ">
-            <h3 class="featurette-heading fw-bold lh-base ms-5 text-center" id="nossa-his-infra">História e Infraestrutura</h3>
-            <p class="lead lh-base fw-normal text-justify mt-4 ms-5">Implantada no ano de 2008, na Avenida Águia de Haia, localizada na Zona Leste da cidade de São Paulo, 
+    <div class="row featurette mt-4">
+        <div class="col mt-5 ms-5">
+            <h3 class="featurette-heading fw-bold lh-base ms-5 text-center" id="nossa-his">Nossa História</h3>
+            <p class="lead lh-base fw-normal text-start mt-4 ms-5">Implantada no ano de 2008, na Avenida Águia de Haia, localizada na Zona Leste da cidade de São Paulo, 
                 a ETEC Zona Leste, atualmente se destaca como um ponto de referência em educação e infraestrutura. 
                 Sua história, desde o início, contou com o apoio e o compromisso da comunidade que a permeia.</p></br>
-            <p class="lead lh-base fw-normal text-justify ms-5">Inicialmente abandonado, o espaço que hoje comporta as respectivas instituições de ensino ETEC 
+            <p class="lead lh-base fw-normal text-start ms-5">Inicialmente abandonado, o espaço que hoje comporta as respectivas instituições de ensino ETEC 
                 e FATEC Zona Leste, seria utilizado para a construção de um presídio. A comunidade ao redor, ao receber a informação, logo prontificou-se a ir 
                 contra a ideia. Como moradores das redondezas, sentiam a necessidade da implantação de um ambiente voltado à educação, pela valorização do local e, 
                 conclusivamente pela possibilidade de ingresso de seus filhos em uma escola próxima, caso o pedido fosse realizado. Abaixo-assinados percorreram as 
                 proximidades de todo o terreno que, graças ao bom número de assinaturas colhidas, atualmente são localizadas as duas instituições pertencentes ao 
                 Centro Paula Souza.</p></br>
+            <p class="lead lh-base fw-normal text-justify ms-5">Ao longo dos anos, a escola tem evoluído e se adaptado às demandas da sociedade e do 
+                mercado, ampliando sua oferta de cursos e modernizando suas instalações. Com uma equipe dedicada de professores e funcionários, 
+                nossa escola oferece uma variedade de cursos técnicos, proporcionando aos alunos uma formação sólida e atualizada.</p></br>
+            <p class="lead lh-base fw-normal text-justify ms-5"></p>
+        </div>
+    </div>
+
+    <!-- (2) Texto e imagem: -->
+    <div class="row featurette mt-4">
+        <div class="col mt-5 ms-5">
+            <h3 class="featurette-heading fw-bold lh-base mt-4 ms-5 text-center" id="nossa-infra">Nossa Infraestrutura</h3>
+            <p class="lead lh-base fw-normal text-start ms-5"></p></br>
+            <p class="lead lh-base fw-normal text-start ms-5"></p></br>
             <p class="lead lh-base fw-normal text-justify ms-5"></p></br>
             <p class="lead lh-base fw-normal text-justify ms-5"></p>
         </div>

@@ -59,7 +59,8 @@
 
                         <!-- Opções -->
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="instituicao/#nossa-his-infra">História & Infraestrutura</a></li>
+                            <li><a class="dropdown-item" href="instituicao/#nossa-his"> História</a></li>
+                            <li><a class="dropdown-item" href="instituicao/#nossa-infra"> Infraestrutura</a></li>
                             <li><a class="dropdown-item" href="instituicao/#plano-plurianual-de-gestao">Plano Plurianual de Gestão</a></li>
                             <li><a class="dropdown-item" href="instituicao/#manual-do-aluno">Manual do Aluno</a></li>
                             <li><a class="dropdown-item" href="instituicao/#regimento-comum-das-etecs">Regimento Comum das Etecs</a></li>

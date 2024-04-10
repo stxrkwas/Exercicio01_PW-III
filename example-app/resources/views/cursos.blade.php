@@ -59,7 +59,8 @@
 
                         <!-- Opções -->
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="instituicao/#nossa-his-infra">História & Infraestrutura</a></li>
+                            <li><a class="dropdown-item" href="instituicao/#nossa-his"> História</a></li>
+                            <li><a class="dropdown-item" href="instituicao/#nossa-infra"> Infraestrutura</a></li>
                             <li><a class="dropdown-item" href="instituicao/#plano-plurianual-de-gestao">Plano Plurianual de Gestão</a></li>
                             <li><a class="dropdown-item" href="instituicao/#manual-do-aluno">Manual do Aluno</a></li>
                             <li><a class="dropdown-item" href="instituicao/#regimento-comum-das-etecs">Regimento Comum das Etecs</a></li>
@@ -153,14 +154,14 @@
             <p class="lead lh-base fw-normal mt-4 ms-5">O programa AMS – Formação Articulada Médio-Técnica e Superior –
                 oferece uma formação completa em cinco anos, integrando o Ensino Médio (Etec) com o Ensino Superior Tecnológico (Fatec).
             </p></br>
-            <p class="lead lh-base fw-normal ms-5">O curso Novotec em Desenvolvimento de Sistemas AMS é oferecido na Etec 
-                e Fatec Zona Leste desde o ano de 2019, sendo esta escola pioneira na implantação deste novo modelo não só no 
-                Centro Paula Souza (CPS) como em São Paulo e no Brasil e conta com parceria com a IBM, que propicia mentorias aos alunos 
+            <p class="lead lh-base fw-normal ms-5">O curso Novotec em Desenvolvimento de Sistemas AMS é oferecido na Etec
+                e Fatec Zona Leste desde o ano de 2019, sendo esta escola pioneira na implantação deste novo modelo não só no
+                Centro Paula Souza (CPS) como em São Paulo e no Brasil e conta com parceria com a IBM, que propicia mentorias aos alunos
                 durante o Ensino Médio-Técnico assim como possibilita estágio aos alunos durante o Ensino Superior.
             </p></br>
-            <p class="lead lh-base fw-normal ms-5">O aluno ingressa no Ensino Médio com Habilitação Profissional de Técnico 
-                no curso de Desenvolvimento de Sistemas (DS) na Etec da Zona Leste, cursa os 3 anos de Ensino Médio-Técnico já na Fatec Zona Leste, 
-                podendo, após concluir esta fase, ingressar diretamente sem processo seletivo (vestibular) no Curso Superior 
+            <p class="lead lh-base fw-normal ms-5">O aluno ingressa no Ensino Médio com Habilitação Profissional de Técnico
+                no curso de Desenvolvimento de Sistemas (DS) na Etec da Zona Leste, cursa os 3 anos de Ensino Médio-Técnico já na Fatec Zona Leste,
+                podendo, após concluir esta fase, ingressar diretamente sem processo seletivo (vestibular) no Curso Superior
                 em Análise e Desenvolvimento de Sistemas (ADS-AMS) na Fatec Zona Leste.</p>
         </div>
         <div class="col-md-3 order-md-1 ms-5" style="margin-top: 150px;">
@@ -172,17 +173,17 @@
     <div class="row featurette mt-5">
         <div class="col-md-7 order-md-1 mt-5 ms-5">
             <h3 class="featurette-heading fw-bold lh-base ms-5" id="secao-log">Logística</h3>
-            <p class="lead lh-base fw-normal text-justify mt-3 ms-5">Logística é o planejamento do caminho feito por um produto ou serviço até 
-                chegar ao cliente de forma organizada, rápida e econômica. Para planejar esse caminho, o estudante vai precisar de conhecimentos 
-                de matemática, geografia e física. O aluno aprenderá sobre os processos de compra de matérias-primas, 
+            <p class="lead lh-base fw-normal text-justify mt-3 ms-5">Logística é o planejamento do caminho feito por um produto ou serviço até
+                chegar ao cliente de forma organizada, rápida e econômica. Para planejar esse caminho, o estudante vai precisar de conhecimentos
+                de matemática, geografia e física. O aluno aprenderá sobre os processos de compra de matérias-primas,
                 incluindo a escolha dos fornecedores, o registro dos pedidos de compra e o recebimento dos materiais adquiridos.</p></br>
-            <p class="lead lh-base fw-normal text-justify ms-5">O estudante vai aprender também como se deve movimentar as cargas e os produtos 
-                dentro de um estoque para decidir se utilizará, por exemplo, um carrinho ou uma empilhadeira, e como se deve armazenar cada tipo 
-                de produto e por quanto tempo. Vai estudar ainda sobre a entrega das mercadorias compradas pelos clientes: como organizar a carga para 
+            <p class="lead lh-base fw-normal text-justify ms-5">O estudante vai aprender também como se deve movimentar as cargas e os produtos
+                dentro de um estoque para decidir se utilizará, por exemplo, um carrinho ou uma empilhadeira, e como se deve armazenar cada tipo
+                de produto e por quanto tempo. Vai estudar ainda sobre a entrega das mercadorias compradas pelos clientes: como organizar a carga para
                 o transporte, qual a embalagem mais adequada (em caixas de papelão ou madeira, em páletes ou contêineres), qual é o tipo de transporte
-                mais adequado para o produto e para o cliente (caminhões, embarcações, trem ou avião), e quais são as principais rotas que podem ser 
+                mais adequado para o produto e para o cliente (caminhões, embarcações, trem ou avião), e quais são as principais rotas que podem ser
                 utilizadas. Além disso, o estudante aprenderá sobre os custos envolvidos em cada uma das atividades.</p></br>
-            <p class="lead lh-base fw-normal text-justify ms-5">O candidato que ingressar no curso técnico de Logística, na modalidade AMS, 
+            <p class="lead lh-base fw-normal text-justify ms-5">O candidato que ingressar no curso técnico de Logística, na modalidade AMS,
                 poderá prosseguir os estudos em uma Fatec no curso superior de tecnologia em Logística.</p>
         </div>
         <div class="col-md-3 order-md-2 mt-5 ms-5">
@@ -194,11 +195,11 @@
     <div class="row featurette mt-5">
         <div class="col-md-7 order-md-2 mt-5 ms-5">
             <h3 class="featurette-heading fw-bold lh-base ms-5" id="secao-rh">Recursos Humanos</h3>
-            <p class="lead lh-base fw-normal text-justify mt-4 ms-5">Anuncia vagas de emprego, descrevendo as atribuições do cargo a ser preenchido; 
-                aplica testes em processos seletivos; realiza cálculos para determinar os valores que serão descontados no salário dos funcionários, 
+            <p class="lead lh-base fw-normal text-justify mt-4 ms-5">Anuncia vagas de emprego, descrevendo as atribuições do cargo a ser preenchido;
+                aplica testes em processos seletivos; realiza cálculos para determinar os valores que serão descontados no salário dos funcionários,
                 como o Imposto de Renda e a contribuição ao INSS, além de porcentagem referente a benefícios, como vale-transporte, plano de saúde etc.;
-                insere informações no sistema para a geração de demonstrativos de pagamentos (holerites ou contracheques); 
-                cuida da documentação necessária para aposentadoria, contratação e demissão de profissionais, inclusive preenchendo informações na 
+                insere informações no sistema para a geração de demonstrativos de pagamentos (holerites ou contracheques);
+                cuida da documentação necessária para aposentadoria, contratação e demissão de profissionais, inclusive preenchendo informações na
                 carteira de trabalho; organiza e arquiva documentos do setor; registra e controla período de férias e afastamento de funcionários; e auxilia no treinamento e capacitação dos empregados.</p>
         </div>
         <div class="col-md-3 order-md-1 mt-5 ms-5">
@@ -210,14 +211,14 @@
         <div class="col-md-7 order-md-1 mt-3 ms-5">
             <h3 class="featurette-heading fw-bold lh-base mt-5 ms-5" id="secao-jur">Serviços Jurídicos</h3>
             <p class="lead lh-base fw-normal mt-3 ms-5">
-            Como o foco do curso está nas leis e normas, o aluno vai estudar as áreas do Direito. Vai aprender sobre a Constituição Federal 
-            (direito constitucional), a punição aos crimes (direito penal), as regras para relações e disputas entre as pessoas e também as 
-            normas para disputas e questões familiares (direito civil), o funcionamento dos órgãos públicos (direito administrativo), as 
-            regras para os negócios entre empresas e pessoas (direito empresarial), como deve ser a relação entre patrão e empregado, 
-            considerando direitos e deveres de cada um (direito do trabalho), cobrança de tributos, como os impostos (direito tributário) 
-            e a proteção garantida aos consumidores (direito do consumidor), entre outros assuntos.</p></br>
-            <p class="lead lh-base fw-normal ms-5">O estudante vai conhecer também como são elaborados e redigidos os processos, 
-                contratos e documentos jurídicos. Além de aprender sobre as leis, o aluno vai estudar conceitos de administração de empresas, 
+                Como o foco do curso está nas leis e normas, o aluno vai estudar as áreas do Direito. Vai aprender sobre a Constituição Federal
+                (direito constitucional), a punição aos crimes (direito penal), as regras para relações e disputas entre as pessoas e também as
+                normas para disputas e questões familiares (direito civil), o funcionamento dos órgãos públicos (direito administrativo), as
+                regras para os negócios entre empresas e pessoas (direito empresarial), como deve ser a relação entre patrão e empregado,
+                considerando direitos e deveres de cada um (direito do trabalho), cobrança de tributos, como os impostos (direito tributário)
+                e a proteção garantida aos consumidores (direito do consumidor), entre outros assuntos.</p></br>
+            <p class="lead lh-base fw-normal ms-5">O estudante vai conhecer também como são elaborados e redigidos os processos,
+                contratos e documentos jurídicos. Além de aprender sobre as leis, o aluno vai estudar conceitos de administração de empresas,
                 matemática financeira, técnicas de atendimento ao cliente e inglês instrumental. A língua portuguesa é fundamental.</p>
         </div>
         <div class="col-md-3 order-md-2 mt-3 ms-5">
