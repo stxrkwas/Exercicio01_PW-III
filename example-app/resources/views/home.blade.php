@@ -59,11 +59,9 @@
 
                         <!-- Opções -->
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="instituicao/#nossa-historia">Nossa história</a></li>
-                            <li><a class="dropdown-item" href="instituicao/#infraestrutura">Infraestrutura</a></li>
+                            <li><a class="dropdown-item" href="instituicao/#nossa-his-infra">História & Infraestrutura</a></li>
                             <li><a class="dropdown-item" href="instituicao/#plano-plurianual-de-gestao">Plano Plurianual de Gestão</a></li>
                             <li><a class="dropdown-item" href="instituicao/#manual-do-aluno">Manual do Aluno</a></li>
-                            <li><a class="dropdown-item" href="instituicao/#logistica">Logística</a></li>
                             <li><a class="dropdown-item" href="instituicao/#regimento-comum-das-etecs">Regimento Comum das Etecs</a></li>
                         </ul>
                     </li>
@@ -96,7 +94,7 @@
     </nav>
 
     <!-- Imagem: -->
-    <img class="img-fluid" src="/img/home.etec.webp" width="100%;" height="auto"></img>
+    <img class="img-fluid" src="/img/home.etec.webp" width="100%" height="auto"></img>
 
     <!-- Barra de pesquisa:  -->
     <div class="container-fluid bg-body-tertiary">
@@ -116,7 +114,7 @@
     <!-- (1) Texto e imagem: -->
     <div class="row featurette mt-5">
         <div class="col-md-7 order-md-2 mt-3 ms-5">
-            <h3 class="featurette-heading fw-bold lh-base ms-5" style="text-align: justify;">O que a ETEC pode fazer pelo seu FUTURO ainda HOJE?</h3>
+            <h3 class="featurette-heading fw-bold lh-base ms-5">O que a ETEC pode fazer pelo seu FUTURO ainda HOJE?</h3>
             <p class="lead lh-base fw-normal text-justify mt-4 ms-5">Sabemos que às vezes pensar no futuro pode parecer assustador.
                 Traçamos carreiras e planos profissionais a todo momento em nossos pensamentos,
                 numa busca constante pelo caminho que nos trará o melhor. Mas saiba que a ETEC Zona

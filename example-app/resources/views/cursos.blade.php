@@ -29,7 +29,7 @@
 
                     <!-- Início -->
                     <li class="nav-item">
-                        <a class="nav-link " style="margin-top: 5px; margin-left: 10px; margin-right: 10px;" aria-current="page" href="home">Início</a>
+                        <a class="nav-link " style="margin-top: 5px; margin-left: 10px; margin-right: 10px;" aria-current="page" href="/home">Início</a>
                     </li>
 
                     <!-- <a class="nav-link fw-bold py-1 px-0 active" aria-current="page" href="#">Home</a> -->
@@ -59,11 +59,9 @@
 
                         <!-- Opções -->
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="instituicao/#nossa-historia">Nossa história</a></li>
-                            <li><a class="dropdown-item" href="instituicao/#infraestrutura">Infraestrutura</a></li>
+                            <li><a class="dropdown-item" href="instituicao/#nossa-his-infra">História & Infraestrutura</a></li>
                             <li><a class="dropdown-item" href="instituicao/#plano-plurianual-de-gestao">Plano Plurianual de Gestão</a></li>
                             <li><a class="dropdown-item" href="instituicao/#manual-do-aluno">Manual do Aluno</a></li>
-                            <li><a class="dropdown-item" href="instituicao/#logistica">Logística</a></li>
                             <li><a class="dropdown-item" href="instituicao/#regimento-comum-das-etecs">Regimento Comum das Etecs</a></li>
                         </ul>
                     </li>
