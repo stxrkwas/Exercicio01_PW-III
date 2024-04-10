@@ -222,7 +222,7 @@
                 matemática financeira, técnicas de atendimento ao cliente e inglês instrumental. A língua portuguesa é fundamental.</p>
         </div>
         <div class="col-md-3 order-md-2 mt-3 ms-5">
-            <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" style="margin-top: 145px;" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false" src="/img/jur.png"></img>
+            <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" style="margin-top: 145px;" src="/img/jur.png"></img>
         </div>
     </div>
 
