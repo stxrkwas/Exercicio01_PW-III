@@ -5,8 +5,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home - ETEC Zona Leste</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" 
+    integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" 
+    integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
     <link rel="canonical" href="https://getbootstrap.com/docs/5.3/examples/headers/">
 </head>
 
@@ -21,8 +23,8 @@
                 <img src="/img/eteclogo.png" alt="Logomarca da ETEC da Zona Leste" style="margin-left: 200px;" width="100px;" height="94px;">
             </a>
 
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" 
+            aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse align-items-right" id="navbarSupportedContent">
                 <ul class="navbar-nav nav nav-underline ms-auto mb-2 mb-lg-0">
@@ -36,9 +38,8 @@
 
                     <!-- Cursos -->
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="cursos" style="margin-top: 5px; margin-left: 10px; margin-right: 10px;" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                            Cursos
-                        </a>
+                        <a class="nav-link dropdown-toggle" href="cursos" style="margin-top: 5px; margin-left: 10px; margin-right: 10px;" role="button" 
+                        data-bs-toggle="dropdown" aria-expanded="false">Cursos</a>
 
                         <!-- Cursos da ETEC -->
                         <ul class="dropdown-menu">
@@ -53,9 +54,8 @@
 
                     <!-- Instituição -->
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="instituicao" role="button" style="margin-top: 5px; margin-left: 10px; margin-right: 10px;" data-bs-toggle="dropdown" aria-expanded="false">
-                            Instituição
-                        </a>
+                        <a class="nav-link dropdown-toggle" href="instituicao" role="button" style="margin-top: 5px; margin-left: 10px; margin-right: 10px;" 
+                        data-bs-toggle="dropdown" aria-expanded="false">Instituição</a>
 
                         <!-- Opções -->
                         <ul class="dropdown-menu">
@@ -69,9 +69,8 @@
 
                     <!-- Departamentos -->
                     <li class="nav-item dropdown ">
-                        <a class="nav-link dropdown-toggle" href="home" role="button" style="margin-top: 5px; margin-left: 10px; margin-right: 10px;" data-bs-toggle="dropdown" aria-expanded="false">
-                            Departamentos
-                        </a>
+                        <a class="nav-link dropdown-toggle" href="home" role="button" style="margin-top: 5px; margin-left: 10px; margin-right: 10px;" 
+                        data-bs-toggle="dropdown" aria-expanded="false">Departamentos</a>
 
                         <!-- Cursos da ETEC -->
                         <ul class="dropdown-menu">
@@ -95,7 +94,9 @@
     </nav>
 
     <!-- Imagem: -->
-    <img class="img-fluid" src="/img/adm.png" style="width: 100%; height: 75%;"></img>
+    <div class="container-fluid bg-body-primary">
+        <img class="img-fluid" src="/img/image.png" style="width: 100%;"></img>
+    </div>
 
     <!-- Barra de pesquisa:  -->
     <div class="container-fluid bg-body-tertiary">
@@ -114,20 +115,20 @@
 
     <!-- (1) Texto e imagem: -->
     <div class="container-fluid bg-body-primary">
-        <div class="row mt-1">
-            <div class="col mt-5 ms-3">
+        <div class="row mt-5">
+            <div class="col mt-1 ms-3">
                 <h3 class="featurette-heading fw-bold lh-base ms-2 text-center" id="nossa-his">Nossa História</h3>
-                <p class="lead lh-base fw-normal mt-4 ms-5">Implantada no ano de 2008, na Avenida Águia de Haia,
+                <p class="lead lh-base fw-normal justify-content-between align-items-center mt-4 ms-5">Implantada no ano de 2008, na Avenida Águia de Haia,
                     localizada na Zona Leste da cidade de São Paulo, a ETEC Zona Leste, atualmente se destaca como um ponto de referência
                     em educação e infraestrutura. Sua história, desde o início, contou com o apoio e o compromisso da comunidade que a permeia.</p></br>
-                <p class="lead lh-base fw-normal text-start ms-5">Inicialmente abandonado, o espaço que hoje comporta as respectivas instituições de ensino ETEC
-                    e FATEC Zona Leste, seria utilizado para a construção de um presídio. A comunidade ao redor, ao receber a informação, logo prontificou-se a ir
-                    contra a ideia. Como moradores das redondezas, sentiam a necessidade da implantação de um ambiente voltado à educação, pela valorização do local e,
-                    conclusivamente pela possibilidade de ingresso de seus filhos em uma escola próxima, caso o pedido fosse realizado. Abaixo-assinados percorreram as
-                    proximidades de todo o terreno que, graças ao bom número de assinaturas colhidas, atualmente são localizadas as duas instituições pertencentes ao
-                    Centro Paula Souza.</p></br>
-                <p class="lead lh-base fw-normal text-justify ms-5">Ao longo dos anos, a escola tem evoluído e se adaptado às demandas da sociedade e do
-                    mercado, ampliando sua oferta de cursos e modernizando suas instalações. Com uma equipe dedicada de professores e funcionários,
+                <p class="lead lh-base fw-normal justify-content-between align-items-center ms-5">Inicialmente abandonado, o espaço que hoje comporta as respectivas
+                    instituições de ensino ETEC e FATEC Zona Leste, seria utilizado para a construção de um presídio. A comunidade ao redor, ao receber a informação,
+                    logo prontificou-se a ir contra a ideia. Como moradores das redondezas, sentiam a necessidade da implantação de um ambiente voltado à educação,
+                    pela valorização do local e, conclusivamente pela possibilidade de ingresso de seus filhos em uma escola próxima, caso o pedido fosse realizado.
+                    Abaixo-assinados percorreram as proximidades de todo o terreno que, graças ao bom número de assinaturas colhidas, atualmente são localizadas as duas
+                    instituições pertencentes ao Centro Paula Souza.</p></br>
+                <p class="lead lh-base fw-normal justify-content-between align-items-center ms-5">Ao longo dos anos, a escola tem evoluído e se adaptado às demandas da
+                    sociedade e do mercado, ampliando sua oferta de cursos e modernizando suas instalações. Com uma equipe dedicada de professores e funcionários,
                     nossa escola oferece uma variedade de cursos técnicos, proporcionando aos alunos uma formação sólida e atualizada.</p></br>
             </div>
         </div>
@@ -136,23 +137,23 @@
     <!-- (2) Texto e imagem: -->
     <div class="container-fluid bg-body-primary">
         <div class="row mt-1">
-            <div class="col mt-5 ms-3">
+            <div class="col mt-1 ms-3">
                 <h3 class="featurette-heading fw-bold lh-base mt-4 ms-5 text-center" id="nossa-infra">Nossa Infraestrutura</h3>
                 <h4 class="featurette-heading fw-bold lh-base mt-4 ms-5 text-start">Patio</h4>
-                <p class="lead lh-base fw-normal justify-content-between align-items-center ms-5">O pátio da instituição é um verdadeiro refúgio. Árvores, flores e plantas dão ao
-                    ambiente uma atmosfera de serenidade e frescor. É um espaço que convida os alunos a desfrutarem do ar livre enquanto se dedicam às
+                <p class="lead lh-base fw-normal justify-content-between align-items-center ms-5">O pátio da instituição é um verdadeiro refúgio. Árvores, flores
+                    e plantas dão ao ambiente uma atmosfera de serenidade e frescor. É um espaço que convida os alunos a desfrutarem do ar livre enquanto se dedicam às
                     suas atividades acadêmicas e sociais. O pátio principal também foi projetado para promover a interação e o convívio entre os estudantes.
                     Com mesas distribuídas, o espaço oferece oportunidades para uma variedade de atividades sociais e recreativas, desde jogos de tabuleiro
                     que estimulam o raciocínio e a cooperação, até partidas acirradas de pingue-pongue e pebolim que promovem a competição saudável
                     e o espírito de equipe.</p></br>
                 <h4 class="featurette-heading fw-bold lh-base mt-4 ms-5 text-start">Sala Maker</h4>
-                <p class="lead lh-base fw-normal text-start ms-5">Com seu espaço voltado à tecnologia e construção de projetos,
+                <p class="lead lh-base fw-normal justify-content-between align-items-center ms-5">Com seu espaço voltado à tecnologia e construção de projetos,
                     a Sala Maker possui notebooks, impressoras 3D, drones, óculos de realidade aumentada e ferramentas para a construção
                     de projetos manuais. Além de ser um ótimo ambiente para estudar com os colegas, o ambiente possui uma diversidade de
                     mesas e cadeiras dispostas, assim comportando um bom número de alunos e seus respectivos projetos.</p></br>
                 <h4 class="featurette-heading fw-bold lh-base mt-4 ms-5 text-start">Quadras</h4>
-                <p class="lead lh-base fw-normal text-justify ms-5">O espaço oferece duas quadras poliesportivas aos estudantes, sendo uma ao ar livre,
-                    para o aproveitamento de dias ensolarados e, outra coberta, garantindo a prática das atividades mesmo em condições climáticas
+                <p class="lead lh-base fw-normal justify-content-between align-items-center ms-5">O espaço oferece duas quadras poliesportivas aos estudantes, sendo
+                    uma ao ar livre, para o aproveitamento de dias ensolarados e, outra coberta, garantindo a prática das atividades mesmo em condições climáticas
                     não-favoráveis. Essas instalações são utilizadas de maneira versátil, servindo como cenário nas aulas
                     dinâmicas de Educação Física ou em eventos como gincanas, interclasses, festas juninas, pós-aulas e feiras tecnológicas.
                 </p></br>
@@ -163,39 +164,32 @@
     <!-- (3) Texto e imagem: -->
     <div class="container-fluid bg-body-primary">
         <div class="row mt-1">
-            <div class="col-md-7 order-md-1 mt-5 ms-5">
-                <h3 class="featurette-heading fw-bold lh-base ms-5" id="plano-plurianual-de-gestao">Plano Plurianual de Gestão</h3>
-                <p class="lead lh-base fw-normal text-justify mt-5 ms-5"></p>
-            </div>
-            <div class="col-md-3 order-md-2 mt-5 ms-5">
-                <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" style="width: 100%; height: 75%; margin-top: 45px;" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false" src="/img/cont.png"></img>
+            <div class="col mt-1 ms-3">
+                <h3 class="featurette-heading fw-bold lh-base ms-5 text-center" id="plano-plurianual-de-gestao">Plano Plurianual de Gestão</h3>
+                <p class="lead lh-base fw-normal justify-content-between align-items-center mt-5 ms-5">O Plano Plurianual de Gestão (PPG) das Etecs
+                    tem por objetivo indicar as principais ações que deverão ser norteadoras do fazer da Unidade de Ensino no próximo quinquênio.</p>
             </div>
         </div>
     </div>
 
     <!-- (4) Texto e imagem: -->
     <div class="container-fluid bg-body-primary">
-        <div class="row mt-5">
-            <div class="col-md-7 order-md-2 mt-5 ms-5">
-                <h3 class="featurette-heading fw-bold lh-base ms-5" id="manual-do-aluno">Manual do Aluno</h3>
-                <p class="lead lh-base fw-normal mt-4 ms-5">
-                </p></br>
-            </div>
-            <div class="col-md-3 order-md-1 ms-5" style="margin-top: 150px;">
-                <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto ms-5" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false" src="/img/image4.png"></img>
+        <div class="row mt-1">
+            <div class="col mt-1 ms-3">
+                <h3 class="featurette-heading fw-bold lh-base ms-5 text-center" id="manual-do-aluno">Manual do Aluno</h3>
+                <a class="lead lh-base fw-normal justify-content-between align-items-center text-center mt-3 ms-5" 
+                href="https://www.eteczonaleste.com.br/manual-do-aluno/">Acesse aqui o Manual do Aluno.</a></br>
             </div>
         </div>
     </div>
 
-    <!-- (4) Texto e imagem: -->
+    <!-- (5) Texto e imagem: -->
     <div class="container-fluid bg-body-primary">
-        <div class="row featurette mt-5">
-            <div class="col-md-7 order-md-1 mt-5 ms-5">
-                <h3 class="featurette-heading fw-bold lh-base ms-5" id="regimento-comum-das-etecs">Regimento Comum das ETECs</h3>
-                <p class="lead lh-base fw-normal text-justify mt-3 ms-5"></p></br>
-            </div>
-            <div class="col-md-3 order-md-2 mt-5 ms-5">
-                <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" style="margin-top: 75px;" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false" src="/img/log.png"></img>
+        <div class="row mt-1">
+            <div class="col mt-1 ms-3">
+                <h3 class="featurette-heading fw-bold lh-base ms-5 text-center" id="regimento-comum-das-etecs">Regimento Comum das ETECs</h3>
+                <a class="lead lh-base fw-normal justify-content-between align-items-center text-center mt-3 ms-5" 
+                href="https://www.eteczonaleste.com.br/regimento-comum-das-etecs/">Acesse aqui o Regimento Comum das ETECs.</a></br>
             </div>
         </div>
     </div>
