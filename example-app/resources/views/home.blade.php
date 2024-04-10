@@ -59,12 +59,12 @@
 
                         <!-- Opções -->
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="home">Nossa história</a></li>
-                            <li><a class="dropdown-item" href="home">Infraestrutura</a></li>
-                            <li><a class="dropdown-item" href="home">Plano Plurianual de Gestão</a></li>
-                            <li><a class="dropdown-item" href="home">Manual do Aluno</a></li>
-                            <li><a class="dropdown-item" href="home">Logística</a></li>
-                            <li><a class="dropdown-item" href="home">Regimento Comum das Etecs</a></li>
+                            <li><a class="dropdown-item" href="instituicao/#nossa-historia">Nossa história</a></li>
+                            <li><a class="dropdown-item" href="instituicao/#infraestrutura">Infraestrutura</a></li>
+                            <li><a class="dropdown-item" href="instituicao/#plano-plurianual-de-gestao">Plano Plurianual de Gestão</a></li>
+                            <li><a class="dropdown-item" href="instituicao/#manual-do-aluno">Manual do Aluno</a></li>
+                            <li><a class="dropdown-item" href="instituicao/#logistica">Logística</a></li>
+                            <li><a class="dropdown-item" href="instituicao/#regimento-comum-das-etecs">Regimento Comum das Etecs</a></li>
                         </ul>
                     </li>
 
@@ -76,9 +76,9 @@
 
                         <!-- Cursos da ETEC -->
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="https://eteczonaleste.com.br/cursos/administracao/">APM - Associação de Pais e Mestres</a></li>
-                            <li><a class="dropdown-item" href="home">Coordenação de Cursos</a></li>
-                            <li><a class="dropdown-item" href="home">Direção</a></li>
+                            <li><a class="dropdown-item" href="departamentos/#apm">APM - Associação de Pais e Mestres</a></li>
+                            <li><a class="dropdown-item" href="departamentos/#coor-de-cursos">Coordenação de Cursos</a></li>
+                            <li><a class="dropdown-item" href="departamentos/#direcao">Direção</a></li>
                         </ul>
                     </li>
 
@@ -126,7 +126,7 @@
                 Dê o seu primeiro passo hoje em direção ao futuro. Faça parte da ETEC!</p>
         </div>
         <div class="col-md-3 order-md-1 mt-3 ms-5">
-        <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto ms-5" width="600" height="600" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false" src="/img/image1.png"></img>
+            <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto ms-5" width="600" height="600" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false" src="/img/image1.png"></img>
         </div>
     </div>
 
@@ -134,12 +134,12 @@
     <div class="row featurette mt-5">
         <div class="col-md-7 order-md-1 mt-3 ms-5">
             <h3 class="featurette-heading fw-bold lh-base ms-5" style="text-align: justify;">Excelência Educacional</h3>
-            <p class="lead lh-base fw-normal text-justify mt-4 ms-5">Na ETEC Zona Leste, a excelência educacional é a nossa prioridade máxima. 
-                Nossas aulas são ministradas por professores altamente qualificados, proporcionando uma educação satisfatória que combina 
+            <p class="lead lh-base fw-normal text-justify mt-4 ms-5">Na ETEC Zona Leste, a excelência educacional é a nossa prioridade máxima.
+                Nossas aulas são ministradas por professores altamente qualificados, proporcionando uma educação satisfatória que combina
                 conhecimentos acadêmicos sólidos com habilidades práticas essenciais para o mercado de trabalho.</p>
         </div>
         <div class="col-md-3 order-md-2 mt-3 ms-5">
-        <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="600" height="600" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false" src="/img/image2.png"></img>
+            <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="600" height="600" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false" src="/img/image2.png"></img>
         </div>
     </div>
 
@@ -147,13 +147,13 @@
     <div class="row featurette mt-5">
         <div class="col-md-7 order-md-2 mt-3 ms-5">
             <h3 class="featurette-heading fw-bold lh-base ms-5">Para além da sala de aula</h3>
-            <p class="lead lh-base fw-normal text-justify mt-4 ms-5">Buscamos levar o conhecimento para além da sala de aula tradicional. 
-                Incentivamos o cultivo de conexões valiosas por meio de networking e oportunidades de carreira. Além do sucesso acadêmico, 
-                nos preocupamos com o desenvolvimento pessoal de nosso corpo estudantil, 
+            <p class="lead lh-base fw-normal text-justify mt-4 ms-5">Buscamos levar o conhecimento para além da sala de aula tradicional.
+                Incentivamos o cultivo de conexões valiosas por meio de networking e oportunidades de carreira. Além do sucesso acadêmico,
+                nos preocupamos com o desenvolvimento pessoal de nosso corpo estudantil,
                 oferecendo suporte abrangente, orientação vocacional e programas extracurriculares.</p>
         </div>
         <div class="col-md-3 order-md-1 mt-3 ms-5">
-        <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto ms-5" width="600" height="600" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false" src="/img/image3.png"></img>
+            <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto ms-5" width="600" height="600" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false" src="/img/image3.png"></img>
         </div>
     </div>
 
@@ -161,14 +161,14 @@
     <div class="row featurette mt-5">
         <div class="col-md-7 order-md-1 mt-3 ms-5">
             <h3 class="featurette-heading fw-bold lh-base ms-5" style="text-align: justify;">Ambientes favoráveis</h3>
-            <p class="lead lh-base fw-normal text-justify mt-4 ms-5">Contamos com uma infraestrutura moderna, laboratórios e salas equipadas 
-                com televisões, computadores, notebooks, impressoras 3D e muitos outros componentes propícios aos projetos que desenvolvemos 
-                durante a jornada dos estudantes. Ademais, nossa instituição é envolta em um grande jardim, com árvores de pequeno e médio porte, 
-                plantas e flores, provendo ao nosso corpo estudantil um ambiente mais acolhedor e aconchegante. 
+            <p class="lead lh-base fw-normal text-justify mt-4 ms-5">Contamos com uma infraestrutura moderna, laboratórios e salas equipadas
+                com televisões, computadores, notebooks, impressoras 3D e muitos outros componentes propícios aos projetos que desenvolvemos
+                durante a jornada dos estudantes. Ademais, nossa instituição é envolta em um grande jardim, com árvores de pequeno e médio porte,
+                plantas e flores, provendo ao nosso corpo estudantil um ambiente mais acolhedor e aconchegante.
                 Na ETEC Zona Leste, você encontrará um espaço favorável para o impulsionar seu crescimento acadêmico e profissional.</p>
         </div>
         <div class="col-md-3 order-md-2 mt-3 ms-5">
-        <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="600" height="600" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false" src="/img/image4.png"></img>
+            <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="600" height="600" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false" src="/img/image4.png"></img>
         </div>
     </div>
 
