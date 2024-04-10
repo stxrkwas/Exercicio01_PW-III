@@ -130,19 +130,46 @@
     <div class="container-fluid bg-body-primary">
         <div class="row mt-5">
             <div class="col mt-1 ms-3">
+
+                <!-- Título -->
                 <h3 class="featurette-heading fw-bold lh-base ms-2 text-center" id="coor-de-cursos">Coordenação de Cursos</h3></br>
+
+                <!-- NOVOTEC -->
                 <h4 class="featurette-heading fw-bold lh-base ms-5">Coordenador NOVOTEC</h4>
                 <p class="lead lh-base fw-normal justify-content-between align-items-start mt-4 ms-5">Giovanna Littiere (Novotec Administração)</br>
                     Leandro (Novotec Logística)</br>
                     Marcelo Collado (Novotec Desenvolvimento de Sistemas)</br>
                     Cibelle Ferreria Francoso (Novotec RH)</br>
                     Jeferson Roberto de Lima (Novotec Desenvolvimento de Sistemas AMS)</p></br>
+
+                <!-- Cursos Técnicos -->
                 <h4 class="featurette-heading fw-bold lh-base ms-5">Coordenador Curso Técnico</h4>
                 <p class="lead lh-base fw-normal justify-content-between align-items-start mt-4 ms-5">
                     Monyse Tesser Panacci (Técnico em Adminstração / Técnico em Contabilidade)</br>
                     Ediney Ciasi Barreto (Técnico em Desenvolvimento de Sistemas)</br>
                     Silvano Lack de Brito (Técnico em Logística / Técnico em Serviços Jurídicos)
                 </p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Direção -->
+    <div class="container-fluid bg-body-primary">
+        <div class="row mt-5">
+            <div class="col mt-1 ms-3">
+                <h3 class="featurette-heading fw-bold lh-base ms-2 text-center" id="direcao">Direção da ETEC</h3></br>
+
+                <!-- Diretora -->
+                <h4 class="featurette-heading fw-bold lh-base ms-5 mt-2">Diretora da ETEC</h4>
+                <p class="lead lh-base fw-normal justify-content-between align-items-start mt-1 ms-5">Amanda Bueno</p></br>
+
+                <!-- Assessor Técnico Administrativo II -->
+                <h4 class="featurette-heading fw-bold lh-base ms-5 mt-2">Assessor Técnico Administrativo II</h4>
+                <p class="lead lh-base fw-normal justify-content-between align-items-start mt-1 ms-5">Patrick Moreno da Silva</p>
+
+                <!-- Contato -->
+                <h4 class="featurette-heading fw-bold lh-base ms-5 mt-2">Contato</h4>
+                <p class="lead lh-base fw-normal justify-content-between align-items-start mt-1 ms-5">Patrick Moreno da Silva</p>
             </div>
         </div>
     </div>
