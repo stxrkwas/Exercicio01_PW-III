@@ -42,13 +42,12 @@
 
                         <!-- Cursos da ETEC -->
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="#secao-adm">Administração</a></li>
-                            <li><a class="dropdown-item" href="home">Contabilidede</a></li>
-                            <li><a class="dropdown-item" href="ds_ams">Novotec Desenvolvimento de Sistemas AMS</a></li>
-                            <li><a class="dropdown-item" href="ds">Desenvolvimento de Sistemas</a></li>
-                            <li><a class="dropdown-item" href="log">Logística</a></li>
-                            <li><a class="dropdown-item" href="rh">Recursos Humanos</a></li>
-                            <li><a class="dropdown-item" href="jur">Serviços Jurídicos</a></li>
+                            <li><a class="dropdown-item" href="cursos/#secao-adm">Administração</a></li>
+                            <li><a class="dropdown-item" href="cursos/#secao-contabilidade">Contabilidede</a></li>
+                            <li><a class="dropdown-item" href="cursos/#secao-ds">Desenvolvimento de Sistemas</a></li>
+                            <li><a class="dropdown-item" href="cursos/#secao-log">Logística</a></li>
+                            <li><a class="dropdown-item" href="cursos/#secao-rh">Recursos Humanos</a></li>
+                            <li><a class="dropdown-item" href="cursos/#secao-jur">Serviços Jurídicos</a></li>
                         </ul>
                     </li>
 
@@ -178,8 +177,8 @@
             <p class="col-md-4 mb-0 text-body-secondary">&copy; 2024 ETEC Zona Leste</p>
 
             <ul class="nav col-md-4 justify-content-end">
-                <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Inicio</a></li>
-                <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Cursos</a></li>
+                <li class="nav-item"><a href="home" class="nav-link px-2 text-body-secondary">Inicio</a></li>
+                <li class="nav-item"><a href="cursos" class="nav-link px-2 text-body-secondary">Cursos</a></li>
                 <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Instituição</a></li>
                 <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Departamentos</a></li>
                 <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Oportunidades</a></li>

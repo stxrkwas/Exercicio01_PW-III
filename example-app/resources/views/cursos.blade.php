@@ -43,12 +43,11 @@
                         <!-- Cursos da ETEC -->
                         <ul class="dropdown-menu">
                             <li><a class="dropdown-item" href="#secao-adm">Administração</a></li>
-                            <li><a class="dropdown-item" href="home">Contabilidede</a></li>
-                            <li><a class="dropdown-item" href="ds_ams">Novotec Desenvolvimento de Sistemas AMS</a></li>
-                            <li><a class="dropdown-item" href="ds">Desenvolvimento de Sistemas</a></li>
-                            <li><a class="dropdown-item" href="log">Logística</a></li>
-                            <li><a class="dropdown-item" href="rh">Recursos Humanos</a></li>
-                            <li><a class="dropdown-item" href="jur">Serviços Jurídicos</a></li>
+                            <li><a class="dropdown-item" href="#secao-contabilidade">Contabilidede</a></li>
+                            <li><a class="dropdown-item" href="#secao-ds">Desenvolvimento de Sistemas</a></li>
+                            <li><a class="dropdown-item" href="#secao-log">Logística</a></li>
+                            <li><a class="dropdown-item" href="#secao-rh">Recursos Humanos</a></li>
+                            <li><a class="dropdown-item" href="#secao-jur">Serviços Jurídicos</a></li>
                         </ul>
                     </li>
 
@@ -135,7 +134,7 @@
     <!-- (2) Texto e imagem: -->
     <div class="row featurette mt-5">
         <div class="col-md-7 order-md-1 mt-3 ms-5">
-            <h3 class="featurette-heading fw-bold lh-base ms-5" style="text-align: justify;">Contabilidade</h3>
+            <h3 class="featurette-heading fw-bold lh-base ms-5" id="secao-contabilidade">Contabilidade</h3>
             <p class="lead lh-base fw-normal text-justify mt-4 ms-5">Na ETEC Zona Leste, a excelência educacional é a nossa prioridade máxima. 
                 Nossas aulas são ministradas por professores altamente qualificados, proporcionando uma educação satisfatória que combina 
                 conhecimentos acadêmicos sólidos com habilidades práticas essenciais para o mercado de trabalho.</p>
@@ -148,7 +147,7 @@
     <!-- (3) Texto e imagem: -->
     <div class="row featurette mt-5">
         <div class="col-md-7 order-md-2 mt-3 ms-5">
-            <h3 class="featurette-heading fw-bold lh-base ms-5">Desenvolvimento de Sistemas</h3>
+            <h3 class="featurette-heading fw-bold lh-base ms-5" id="secao-ds">Desenvolvimento de Sistemas</h3>
             <p class="lead lh-base fw-normal text-justify mt-4 ms-5">Buscamos levar o conhecimento para além da sala de aula tradicional. 
                 Incentivamos o cultivo de conexões valiosas por meio de networking e oportunidades de carreira. Além do sucesso acadêmico, 
                 nos preocupamos com o desenvolvimento pessoal de nosso corpo estudantil, 
@@ -162,7 +161,7 @@
     <!-- (4) Texto e imagem: -->
     <div class="row featurette mt-5">
         <div class="col-md-7 order-md-1 mt-3 ms-5">
-            <h3 class="featurette-heading fw-bold lh-base ms-5" style="text-align: justify;">Logística</h3>
+            <h3 class="featurette-heading fw-bold lh-base ms-5" id="secao-log">Logística</h3>
             <p class="lead lh-base fw-normal text-justify mt-4 ms-5">Contamos com uma infraestrutura moderna, laboratórios e salas equipadas 
                 com televisões, computadores, notebooks, impressoras 3D e muitos outros componentes propícios aos projetos que desenvolvemos 
                 durante a jornada dos estudantes. Ademais, nossa instituição é envolta em um grande jardim, com árvores de pequeno e médio porte, 
@@ -177,7 +176,7 @@
     <!-- (5) Texto e imagem: -->
     <div class="row featurette mt-5">
         <div class="col-md-7 order-md-2 mt-3 ms-5">
-            <h3 class="featurette-heading fw-bold lh-base ms-5">Recursos Humanos</h3>
+            <h3 class="featurette-heading fw-bold lh-base ms-5" id="secao-rh">Recursos Humanos</h3>
             <p class="lead lh-base fw-normal text-justify mt-4 ms-5">Buscamos levar o conhecimento para além da sala de aula tradicional. 
                 Incentivamos o cultivo de conexões valiosas por meio de networking e oportunidades de carreira. Além do sucesso acadêmico, 
                 nos preocupamos com o desenvolvimento pessoal de nosso corpo estudantil, 
@@ -190,7 +189,7 @@
 
     <div class="row featurette mt-5">
         <div class="col-md-7 order-md-1 mt-3 ms-5">
-            <h3 class="featurette-heading fw-bold lh-base ms-5" style="text-align: justify;">Serviços Jurídicos</h3>
+            <h3 class="featurette-heading fw-bold lh-base ms-5" id="secao-jur">Serviços Jurídicos</h3>
             <p class="lead lh-base fw-normal text-justify mt-4 ms-5">Contamos com uma infraestrutura moderna, laboratórios e salas equipadas 
                 com televisões, computadores, notebooks, impressoras 3D e muitos outros componentes propícios aos projetos que desenvolvemos 
                 durante a jornada dos estudantes. Ademais, nossa instituição é envolta em um grande jardim, com árvores de pequeno e médio porte, 
@@ -207,8 +206,8 @@
             <p class="col-md-4 mb-0 text-body-secondary">&copy; 2024 ETEC Zona Leste</p>
 
             <ul class="nav col-md-4 justify-content-end">
-                <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Inicio</a></li>
-                <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Cursos</a></li>
+                <li class="nav-item"><a href="home" class="nav-link px-2 text-body-secondary">Inicio</a></li>
+                <li class="nav-item"><a href="cursos" class="nav-link px-2 text-body-secondary">Cursos</a></li>
                 <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Instituição</a></li>
                 <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Departamentos</a></li>
                 <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Oportunidades</a></li>
