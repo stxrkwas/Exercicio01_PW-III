@@ -36,9 +36,8 @@
 
                     <!-- Cursos -->
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="cursos" style="margin-top: 5px; margin-left: 10px; margin-right: 10px;" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                            Cursos
-                        </a>
+                        <a class="nav-link dropdown-toggle" href="cursos" style="margin-top: 5px; margin-left: 10px; margin-right: 10px;" 
+                        role="button" data-bs-toggle="dropdown" aria-expanded="false">Cursos</a>
 
                         <!-- Cursos da ETEC -->
                         <ul class="dropdown-menu">
@@ -53,9 +52,8 @@
 
                     <!-- Instituição -->
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" role="button" style="margin-top: 5px; margin-left: 10px; margin-right: 10px;" data-bs-toggle="dropdown" aria-expanded="false">
-                            Instituição
-                        </a>
+                        <a class="nav-link dropdown-toggle" href="institucao" role="button" style="margin-top: 5px; margin-left: 10px; 
+                        margin-right: 10px;" data-bs-toggle="dropdown" aria-expanded="false">Instituição</a>
 
                         <!-- Opções -->
                         <ul class="dropdown-menu">
@@ -69,9 +67,8 @@
 
                     <!-- Departamentos -->
                     <li class="nav-item dropdown ">
-                        <a class="nav-link dropdown-toggle" href="home" role="button" style="margin-top: 5px; margin-left: 10px; margin-right: 10px;" data-bs-toggle="dropdown" aria-expanded="false">
-                            Departamentos
-                        </a>
+                        <a class="nav-link dropdown-toggle" href="departamentos" role="button" style="margin-top: 5px; margin-left: 10px; 
+                        margin-right: 10px;" data-bs-toggle="dropdown" aria-expanded="false">Departamentos</a>
 
                         <!-- Cursos da ETEC -->
                         <ul class="dropdown-menu">
@@ -83,12 +80,14 @@
 
                     <!-- Oportunidades -->
                     <li class="nav-item">
-                        <a class="nav-link" style="margin-top: 5px; margin-left: 10px; margin-right: 10px;" aria-current="page" href="index">Oportunidades</a>
+                        <a class="nav-link" style="margin-top: 5px; margin-left: 10px; margin-right: 10px;" aria-current="page"
+                         href="oportunidades">Oportunidades</a>
                     </li>
 
                     <!-- Vestibulinho -->
                     <li class="nav-item">
-                        <a class="nav-link" style="margin-top: 5px; margin-left: 10px; margin-right: 300px;" aria-current="page" href="index">Vestibulinho</a>
+                        <a class="nav-link" style="margin-top: 5px; margin-left: 10px; margin-right: 300px;" aria-current="page" 
+                        href="vestibulinho">Vestibulinho</a>
                     </li>
             </div>
         </div>
@@ -106,7 +105,8 @@
             <div class="col bg-body-tertiary">
                 <div class="container-fluid mt-5 mb-5 bg-body-tertiary">
                     <form class="d-flex" role="search">
-                        <input class="form-control me-2" type="search" placeholder="O que está buscando?" aria-label="Search" style="height: 60px; width: 500px;">
+                        <input class="form-control me-2" type="search" placeholder="O que está buscando?" aria-label="Search" 
+                        style="height: 60px; width: 500px;">
                     </form>
                 </div>
             </div>
@@ -143,7 +143,7 @@
                     conhecimentos acadêmicos sólidos com habilidades práticas essenciais para o mercado de trabalho.</p>
             </div>
             <div class="col-md-3 order-md-2 mt-3 ms-5">
-                <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="600" height="600" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false" src="/img/image2.png"></img>
+                <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" src="/img/image2.png"></img>
             </div>
         </div>
     </div>

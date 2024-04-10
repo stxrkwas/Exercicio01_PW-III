@@ -36,9 +36,8 @@
 
                     <!-- Cursos -->
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="cursos" style="margin-top: 5px; margin-left: 10px; margin-right: 10px;" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                            Cursos
-                        </a>
+                        <a class="nav-link dropdown-toggle" href="cursos" style="margin-top: 5px; margin-left: 10px; margin-right: 10px;" role="button" 
+                        data-bs-toggle="dropdown" aria-expanded="false">Cursos</a>
 
                         <!-- Cursos da ETEC -->
                         <ul class="dropdown-menu">
@@ -69,9 +68,8 @@
 
                     <!-- Departamentos -->
                     <li class="nav-item dropdown ">
-                        <a class="nav-link dropdown-toggle" href="home" role="button" style="margin-top: 5px; margin-left: 10px; margin-right: 10px;" data-bs-toggle="dropdown" aria-expanded="false">
-                            Departamentos
-                        </a>
+                        <a class="nav-link dropdown-toggle" href="departamentos" role="button" style="margin-top: 5px; margin-left: 10px; margin-right: 10px;" 
+                        data-bs-toggle="dropdown" aria-expanded="false">Departamentos</a>
 
                         <!-- Cursos da ETEC -->
                         <ul class="dropdown-menu">
@@ -83,12 +81,12 @@
 
                     <!-- Oportunidades -->
                     <li class="nav-item">
-                        <a class="nav-link" style="margin-top: 5px; margin-left: 10px; margin-right: 10px;" aria-current="page" href="index">Oportunidades</a>
+                        <a class="nav-link" style="margin-top: 5px; margin-left: 10px; margin-right: 10px;" aria-current="page" href="oportunidades">Oportunidades</a>
                     </li>
 
                     <!-- Vestibulinho -->
                     <li class="nav-item">
-                        <a class="nav-link" style="margin-top: 5px; margin-left: 10px; margin-right: 300px;" aria-current="page" href="index">Vestibulinho</a>
+                        <a class="nav-link" style="margin-top: 5px; margin-left: 10px; margin-right: 300px;" aria-current="page" href="vestibulinho">Vestibulinho</a>
                     </li>
             </div>
         </div>
