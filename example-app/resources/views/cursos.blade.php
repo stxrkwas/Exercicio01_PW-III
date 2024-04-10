@@ -96,7 +96,7 @@
     </nav>
 
     <!-- Imagem: -->
-    <img class="img-fluid" src="/img/adm.png" width="100%;" height="75%;"></img>
+    <img class="img-fluid" src="/img/adm.png" style="width: 100%; height: 75%;"></img>
 
     <!-- Barra de pesquisa:  -->
     <div class="container-fluid bg-body-tertiary">
@@ -115,7 +115,7 @@
 
     <!-- (1) Texto e imagem: -->
     <div class="row featurette mt-5">
-        <div class="col-md-7 order-md-2 mt-3 ms-5">
+        <div class="col-md-7 order-md-2 mt-5 ms-5">
             <h3 class="featurette-heading fw-bold lh-base ms-5" style="text-align: justify;" id="secao-adm">Administração</h3>
             <p class="lead lh-base fw-normal text-justify mt-4 ms-5">Como funcionam as organizações, desde empresas privadas até ONGs, passando por
                 órgãos públicos, comércio e indústria. O estudante vai precisar de conhecimentos de língua portuguesa, matemática, história e geografia
@@ -126,16 +126,16 @@
                 para o futuro.O candidato que ingressar no curso técnico de Administração, na modalidade AMS, poderá prosseguir os estudos em uma Fatec
                 no curso superior de tecnologia em Processos Gerenciais.</p>
         </div>
-        <div class="col-md-3 order-md-1 mt-3 ms-5">
-            <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto ms-5" width="600" height="600" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false" src="/img/image1.png"></img>
+        <div class="col-md-3 order-md-1 mt-5 ms-5">
+            <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto ms-5" style="width: 400px; height: 300px; margin-top: 60px;" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false" src="/img/adm1.png"></img>
         </div>
     </div>
 
     <!-- (2) Texto e imagem: -->
     <div class="row featurette mt-5">
-        <div class="col-md-7 order-md-1 mt-3 ms-5">
+        <div class="col-md-7 order-md-1 mt-5 ms-5">
             <h3 class="featurette-heading fw-bold lh-base ms-5" id="secao-contabilidade">Contabilidade</h3>
-            <p class="lead lh-base fw-normal text-justify mt-4 ms-5">Matemática e língua portuguesa são disciplinas importantes para entender
+            <p class="lead lh-base fw-normal text-justify mt-5 ms-5">Matemática e língua portuguesa são disciplinas importantes para entender
                 a contabilidade, que é a ciência responsável por organizar as contas de uma empresa e registrar seus bens patrimoniais
                 (como prédios, veículos e máquinas, entre outros). Além da matemática básica, que serve como ferramenta para calcular o lucro
                 ou o prejuízo de uma empresa, o estudante aprenderá matemática financeira, utilizada para operações de financiamento e cálculo
@@ -144,7 +144,7 @@
                 e a usar programas de computador específicos para a contabilidade.</p>
         </div>
         <div class="col-md-3 order-md-2 mt-5 ms-5">
-            <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="600px;" height="600px;" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false" src="/img/cont.png"></img>
+            <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" style="width: 100%; height: 75%; margin-top: 45px;" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false" src="/img/cont.png"></img>
         </div>
     </div>
 
@@ -152,28 +152,43 @@
     <div class="row featurette mt-5">
         <div class="col-md-7 order-md-2 mt-3 ms-5">
             <h3 class="featurette-heading fw-bold lh-base ms-5" id="secao-ds">Desenvolvimento de Sistemas</h3>
-            <p class="lead lh-base fw-normal text-justify mt-4 ms-5">Buscamos levar o conhecimento para além da sala de aula tradicional.
-                Incentivamos o cultivo de conexões valiosas por meio de networking e oportunidades de carreira. Além do sucesso acadêmico,
-                nos preocupamos com o desenvolvimento pessoal de nosso corpo estudantil,
-                oferecendo suporte abrangente, orientação vocacional e programas extracurriculares.</p>
+            <p class="lead lh-base fw-normal mt-4 ms-5">O programa AMS – Formação Articulada Médio-Técnica e Superior –
+                oferece uma formação completa em cinco anos, integrando o Ensino Médio (Etec) com o Ensino Superior Tecnológico (Fatec).
+            </p></br>
+            <p class="lead lh-base fw-normal ms-5">O curso Novotec em Desenvolvimento de Sistemas AMS é oferecido na Etec 
+                e Fatec Zona Leste desde o ano de 2019, sendo esta escola pioneira na implantação deste novo modelo não só no 
+                Centro Paula Souza (CPS) como em São Paulo e no Brasil e conta com parceria com a IBM, que propicia mentorias aos alunos 
+                durante o Ensino Médio-Técnico assim como possibilita estágio aos alunos durante o Ensino Superior.
+            </p></br>
+            <p class="lead lh-base fw-normal ms-5">O aluno ingressa no Ensino Médio com Habilitação Profissional de Técnico 
+                no curso de Desenvolvimento de Sistemas (DS) na Etec da Zona Leste, cursa os 3 anos de Ensino Médio-Técnico já na Fatec Zona Leste, 
+                podendo, após concluir esta fase, ingressar diretamente sem processo seletivo (vestibular) no Curso Superior 
+                em Análise e Desenvolvimento de Sistemas (ADS-AMS) na Fatec Zona Leste.</p>
         </div>
-        <div class="col-md-3 order-md-1 mt-3 ms-5">
-            <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto ms-5" width="600" height="600" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false" src="/img/image3.png"></img>
+        <div class="col-md-3 order-md-1 ms-5" style="margin-top: 150px;">
+            <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto ms-5" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false" src="/img/image4.png"></img>
         </div>
     </div>
 
     <!-- (4) Texto e imagem: -->
     <div class="row featurette mt-5">
-        <div class="col-md-7 order-md-1 mt-3 ms-5">
+        <div class="col-md-7 order-md-1 mt-5 ms-5">
             <h3 class="featurette-heading fw-bold lh-base ms-5" id="secao-log">Logística</h3>
-            <p class="lead lh-base fw-normal text-justify mt-4 ms-5">Contamos com uma infraestrutura moderna, laboratórios e salas equipadas
-                com televisões, computadores, notebooks, impressoras 3D e muitos outros componentes propícios aos projetos que desenvolvemos
-                durante a jornada dos estudantes. Ademais, nossa instituição é envolta em um grande jardim, com árvores de pequeno e médio porte,
-                plantas e flores, provendo ao nosso corpo estudantil um ambiente mais acolhedor e aconchegante.
-                Na ETEC Zona Leste, você encontrará um espaço favorável para o impulsionar seu crescimento acadêmico e profissional.</p>
+            <p class="lead lh-base fw-normal text-justify ms-5">Logística é o planejamento do caminho feito por um produto ou serviço até 
+                chegar ao cliente de forma organizada, rápida e econômica. Para planejar esse caminho, o estudante vai precisar de conhecimentos 
+                de matemática, geografia e física. O aluno aprenderá sobre os processos de compra de matérias-primas, 
+                incluindo a escolha dos fornecedores, o registro dos pedidos de compra e o recebimento dos materiais adquiridos.</p></br>
+            <p class="lead lh-base fw-normal text-justify ms-5">O estudante vai aprender também como se deve movimentar as cargas e os produtos 
+                dentro de um estoque para decidir se utilizará, por exemplo, um carrinho ou uma empilhadeira, e como se deve armazenar cada tipo 
+                de produto e por quanto tempo. Vai estudar ainda sobre a entrega das mercadorias compradas pelos clientes: como organizar a carga para 
+                o transporte, qual a embalagem mais adequada (em caixas de papelão ou madeira, em páletes ou contêineres), qual é o tipo de transporte
+                mais adequado para o produto e para o cliente (caminhões, embarcações, trem ou avião), e quais são as principais rotas que podem ser 
+                utilizadas. Além disso, o estudante aprenderá sobre os custos envolvidos em cada uma das atividades.</p></br>
+            <p class="lead lh-base fw-normal text-justify ms-5">O candidato que ingressar no curso técnico de Logística, na modalidade AMS, 
+                poderá prosseguir os estudos em uma Fatec no curso superior de tecnologia em Logística.</p>
         </div>
-        <div class="col-md-3 order-md-2 mt-3 ms-5">
-            <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="600" height="600" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false" src="/img/image4.png"></img>
+        <div class="col-md-3 order-md-2 mt-5 ms-5" style="margin-top: 70px;">
+            <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false" src="/img/image4.png"></img>
         </div>
     </div>
 
@@ -181,10 +196,7 @@
     <div class="row featurette mt-5">
         <div class="col-md-7 order-md-2 mt-3 ms-5">
             <h3 class="featurette-heading fw-bold lh-base ms-5" id="secao-rh">Recursos Humanos</h3>
-            <p class="lead lh-base fw-normal text-justify mt-4 ms-5">Buscamos levar o conhecimento para além da sala de aula tradicional.
-                Incentivamos o cultivo de conexões valiosas por meio de networking e oportunidades de carreira. Além do sucesso acadêmico,
-                nos preocupamos com o desenvolvimento pessoal de nosso corpo estudantil,
-                oferecendo suporte abrangente, orientação vocacional e programas extracurriculares.</p>
+            <p class="lead lh-base fw-normal text-justify mt-4 ms-5"></p>
         </div>
         <div class="col-md-3 order-md-1 mt-3 ms-5">
             <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto ms-5" width="600" height="600" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false" src="/img/image3.png"></img>
@@ -194,11 +206,7 @@
     <div class="row featurette mt-5">
         <div class="col-md-7 order-md-1 mt-3 ms-5">
             <h3 class="featurette-heading fw-bold lh-base ms-5" id="secao-jur">Serviços Jurídicos</h3>
-            <p class="lead lh-base fw-normal text-justify mt-4 ms-5">Contamos com uma infraestrutura moderna, laboratórios e salas equipadas
-                com televisões, computadores, notebooks, impressoras 3D e muitos outros componentes propícios aos projetos que desenvolvemos
-                durante a jornada dos estudantes. Ademais, nossa instituição é envolta em um grande jardim, com árvores de pequeno e médio porte,
-                plantas e flores, provendo ao nosso corpo estudantil um ambiente mais acolhedor e aconchegante.
-                Na ETEC Zona Leste, você encontrará um espaço favorável para o impulsionar seu crescimento acadêmico e profissional.</p>
+            <p class="lead lh-base fw-normal text-justify mt-4 ms-5"></p>
         </div>
         <div class="col-md-3 order-md-2 mt-3 ms-5">
             <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="600" height="600" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false" src="/img/image4.png"></img>
