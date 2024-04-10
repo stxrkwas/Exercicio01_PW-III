@@ -159,7 +159,7 @@
                     oferecendo suporte abrangente, orientação vocacional e programas extracurriculares.</p>
             </div>
             <div class="col-md-3 order-md-1 mt-3 ms-5">
-                <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto ms-5" width="600" height="600" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false" src="/img/image3.png"></img>
+                <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto ms-5" src="/img/image3.png"></img>
             </div>
         </div>
     </div>

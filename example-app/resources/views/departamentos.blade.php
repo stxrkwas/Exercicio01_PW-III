@@ -94,6 +94,55 @@
         </div>
     </nav>
 
-</body>
+    <!-- Imagem: -->
+    <div class="container-fluid bg-body-primary">
+        <img class="img-fluid" src="/img/image.png" style="width: 100%;"></img>
+    </div>
 
+    <!-- Barra de pesquisa:  -->
+    <div class="container-fluid bg-body-tertiary">
+        <div class="row bg-body-tertiary">
+            <div class="col">&nbsp;</div>
+            <div class="col bg-body-tertiary">
+                <div class="container-fluid mt-5 mb-5 bg-body-tertiary">
+                    <form class="d-flex" role="search">
+                        <input class="form-control me-2" type="search" placeholder="O que está buscando?" aria-label="Search" style="height: 60px; width: 500px;">
+                    </form>
+                </div>
+            </div>
+            <div class="col">&nbsp;</div>
+        </div>
+    </div>
+
+    <!-- (1) APM: -->
+    <div class="container-fluid bg-body-primary">
+        <div class="row mt-5">
+            <div class="col mt-1 ms-3">
+                <h3 class="featurette-heading fw-bold lh-base ms-2 text-center" id="apm">APM - Associação de Pais e Mestres</h3>
+                <p class="lead lh-base fw-normal justify-content-between align-items-center mt-4 ms-5">A Associação de Pais e Mestres (APM) é uma instituição
+                    privada, auxiliar da escola, e tem por finalidade apoiar o processo de gestão escolar, a assistência ao aluno e a 
+                    integração escola-família-comunidade.</p>
+                <p class="lead lh-base fw-normal justify-content-between align-items-center ms-5">Trata-se de uma entidade com objetivos sociais e educativos, 
+                    sem fins lucrativos.</p>
+                <p class="lead lh-base fw-normal justify-content-between align-items-center ms-5">Para alcançar seus objetivos, as APMs desenvolvem projetos, 
+                    conforme plano anual, visando ao apoio nas áreas educacional, assistencial, de gestão, conservação e manutenção, convivência e comunicação.</p>
+                <p class="lead lh-base fw-normal justify-content-between align-items-center ms-5">A parceria entre a APM e o CEETEPS é instrumentalizada por 
+                    Acordo de Cooperação e obedece a minuta-padrão do Decreto nº 67.345/2022.</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Horários de Atendimento -->
+    <div class="container-fluid bg-body-primary">
+        <div class="row mt-5">
+        <h3 class="featurette-heading fw-bold lh-base ms-2 text-center" id="coor-de-cursos">Coordenação de Cursos</h3>
+            <div class="col mt-1 ms-3">
+                <p class="lead lh-base fw-normal justify-content-between align-items-center mt-4 ms-5">A Associação de Pais e Mestres (APM) é uma instituição
+                    privada, auxiliar da escola, e tem por finalidade apoiar o processo de gestão escolar, a assistência ao aluno e a 
+                    integração escola-família-comunidade.</p>
+            </div>
+        </div>
+    </div>
+
+</body>
 </html>

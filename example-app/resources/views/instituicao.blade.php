@@ -23,8 +23,9 @@
                 <img src="/img/eteclogo.png" alt="Logomarca da ETEC da Zona Leste" style="margin-left: 200px;" width="100px;" height="94px;">
             </a>
 
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" 
-            aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" 
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse align-items-right" id="navbarSupportedContent">
                 <ul class="navbar-nav nav nav-underline ms-auto mb-2 mb-lg-0">
@@ -95,7 +96,7 @@
 
     <!-- Imagem: -->
     <div class="container-fluid bg-body-primary">
-        <img class="img-fluid" src="/img/image.png" style="width: 100%;"></img>
+        <img class="img-fluid" src="/img/image5.png" style="width: 100%;"></img>
     </div>
 
     <!-- Barra de pesquisa:  -->
