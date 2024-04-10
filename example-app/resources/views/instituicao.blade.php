@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home - ETEC Zona Leste</title>
+    <title>Instituição - ETEC Zona Leste</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" 
     integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" 
@@ -114,7 +114,7 @@
         </div>
     </div>
 
-    <!-- (1) Texto e imagem: -->
+    <!-- Nossa História -->
     <div class="container-fluid bg-body-primary">
         <div class="row mt-5">
             <div class="col mt-1 ms-3">
@@ -135,7 +135,7 @@
         </div>
     </div>
 
-    <!-- (2) Texto e imagem: -->
+    <!-- Nossa Infraestrutura -->
     <div class="container-fluid bg-body-primary">
         <div class="row mt-1">
             <div class="col mt-1 ms-3">
@@ -162,7 +162,7 @@
         </div>
     </div>
 
-    <!-- (3) Texto e imagem: -->
+    <!-- Plano Plurianual de Gestão -->
     <div class="container-fluid bg-body-primary">
         <div class="row mt-1">
             <div class="col mt-1 ms-3">
@@ -173,7 +173,7 @@
         </div>
     </div>
 
-    <!-- (4) Texto e imagem: -->
+    <!-- Manual do Aluno -->
     <div class="container-fluid bg-body-primary">
         <div class="row mt-1">
             <div class="col mt-1 ms-3">
@@ -184,7 +184,7 @@
         </div>
     </div>
 
-    <!-- (5) Texto e imagem: -->
+    <!-- Regimento Comum das ETECs -->
     <div class="container-fluid bg-body-primary">
         <div class="row mt-1">
             <div class="col mt-1 ms-3">
@@ -195,6 +195,7 @@
         </div>
     </div>
 
+    <!-- Rodapé -->
     <div class="container-fluid">
         <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top">
             <p class="col-md-4 mb-0 text-body-secondary">&copy; 2024 ETEC Zona Leste</p>
