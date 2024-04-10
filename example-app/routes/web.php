@@ -28,3 +28,19 @@ Route::get('/home', function () {
 Route::get('/cursos', function () {
     return view('cursos');
 });
+
+Route::get('/instituicao', function () {
+    return view('instituicao');
+});
+
+Route::get('/departamentos', function () {
+    return view('departamentos');
+});
+
+Route::get('/oportunidades', function () {
+    return view('oportunidades');
+});
+
+Route::get('/vestibulinho', function () {
+    return view('vestibulinho');
+});

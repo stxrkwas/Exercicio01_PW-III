@@ -179,10 +179,10 @@
             <ul class="nav col-md-4 justify-content-end">
                 <li class="nav-item"><a href="home" class="nav-link px-2 text-body-secondary">Inicio</a></li>
                 <li class="nav-item"><a href="cursos" class="nav-link px-2 text-body-secondary">Cursos</a></li>
-                <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Instituição</a></li>
-                <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Departamentos</a></li>
-                <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Oportunidades</a></li>
-                <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Vestibulinho</a></li>
+                <li class="nav-item"><a href="instituicao" class="nav-link px-2 text-body-secondary">Instituição</a></li>
+                <li class="nav-item"><a href="departamentos" class="nav-link px-2 text-body-secondary">Departamentos</a></li>
+                <li class="nav-item"><a href="oportunidade" class="nav-link px-2 text-body-secondary">Oportunidades</a></li>
+                <li class="nav-item"><a href="vestibulinho" class="nav-link px-2 text-body-secondary">Vestibulinho</a></li>
             </ul>
         </footer>
     </div>
