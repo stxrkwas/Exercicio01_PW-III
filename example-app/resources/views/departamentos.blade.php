@@ -5,10 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Departamentos - ETEC Zona Leste</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" 
-    integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" 
-    integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
     <link rel="canonical" href="https://getbootstrap.com/docs/5.3/examples/headers/">
 </head>
 
@@ -23,8 +21,7 @@
                 <img src="/img/eteclogo.png" alt="Logomarca da ETEC da Zona Leste" style="margin-left: 200px;" width="100px;" height="94px;">
             </a>
 
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" 
-                aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span>
             </button>
 
             <div class="collapse navbar-collapse align-items-right" id="navbarSupportedContent">
@@ -39,8 +36,7 @@
 
                     <!-- Cursos -->
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="cursos" style="margin-top: 5px; margin-left: 10px; margin-right: 10px;" role="button" 
-                        data-bs-toggle="dropdown" aria-expanded="false">Cursos</a>
+                        <a class="nav-link dropdown-toggle" href="cursos" style="margin-top: 5px; margin-left: 10px; margin-right: 10px;" role="button" data-bs-toggle="dropdown" aria-expanded="false">Cursos</a>
 
                         <!-- Cursos da ETEC -->
                         <ul class="dropdown-menu">
@@ -55,8 +51,7 @@
 
                     <!-- Instituição -->
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="instituicao" role="button" style="margin-top: 5px; margin-left: 10px; margin-right: 10px;" 
-                        data-bs-toggle="dropdown" aria-expanded="false">Instituição</a>
+                        <a class="nav-link dropdown-toggle" href="instituicao" role="button" style="margin-top: 5px; margin-left: 10px; margin-right: 10px;" data-bs-toggle="dropdown" aria-expanded="false">Instituição</a>
 
                         <!-- Opções -->
                         <ul class="dropdown-menu">
@@ -70,14 +65,13 @@
 
                     <!-- Departamentos -->
                     <li class="nav-item dropdown ">
-                        <a class="nav-link dropdown-toggle" href="departamentos" role="button" style="margin-top: 5px; margin-left: 10px; margin-right: 10px;" 
-                        data-bs-toggle="dropdown" aria-expanded="false">Departamentos</a>
+                        <a class="nav-link dropdown-toggle" href="departamentos" role="button" style="margin-top: 5px; margin-left: 10px; margin-right: 10px;" data-bs-toggle="dropdown" aria-expanded="false">Departamentos</a>
 
                         <!-- Cursos da ETEC -->
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="departamentos/#apm">APM - Associação de Pais e Mestres</a></li>
-                            <li><a class="dropdown-item" href="departamentos/#coor-de-cursos">Coordenação de Cursos</a></li>
-                            <li><a class="dropdown-item" href="departamentos/#direcao">Direção</a></li>
+                            <li><a class="dropdown-item" href="#apm">APM - Associação de Pais e Mestres</a></li>
+                            <li><a class="dropdown-item" href="#coor-de-cursos">Coordenação de Cursos</a></li>
+                            <li><a class="dropdown-item" href="#direcao">Direção</a></li>
                         </ul>
                     </li>
 
@@ -120,29 +114,39 @@
             <div class="col mt-1 ms-3">
                 <h3 class="featurette-heading fw-bold lh-base ms-2 text-center" id="apm">APM - Associação de Pais e Mestres</h3>
                 <p class="lead lh-base fw-normal justify-content-between align-items-center mt-4 ms-5">A Associação de Pais e Mestres (APM) é uma instituição
-                    privada, auxiliar da escola, e tem por finalidade apoiar o processo de gestão escolar, a assistência ao aluno e a 
+                    privada, auxiliar da escola, e tem por finalidade apoiar o processo de gestão escolar, a assistência ao aluno e a
                     integração escola-família-comunidade.</p>
-                <p class="lead lh-base fw-normal justify-content-between align-items-center ms-5">Trata-se de uma entidade com objetivos sociais e educativos, 
+                <p class="lead lh-base fw-normal justify-content-between align-items-center ms-5">Trata-se de uma entidade com objetivos sociais e educativos,
                     sem fins lucrativos.</p>
-                <p class="lead lh-base fw-normal justify-content-between align-items-center ms-5">Para alcançar seus objetivos, as APMs desenvolvem projetos, 
+                <p class="lead lh-base fw-normal justify-content-between align-items-center ms-5">Para alcançar seus objetivos, as APMs desenvolvem projetos,
                     conforme plano anual, visando ao apoio nas áreas educacional, assistencial, de gestão, conservação e manutenção, convivência e comunicação.</p>
-                <p class="lead lh-base fw-normal justify-content-between align-items-center ms-5">A parceria entre a APM e o CEETEPS é instrumentalizada por 
+                <p class="lead lh-base fw-normal justify-content-between align-items-center ms-5">A parceria entre a APM e o CEETEPS é instrumentalizada por
                     Acordo de Cooperação e obedece a minuta-padrão do Decreto nº 67.345/2022.</p>
             </div>
         </div>
     </div>
 
-    <!-- Horários de Atendimento -->
+    <!-- Coordenação de Cursos -->
     <div class="container-fluid bg-body-primary">
         <div class="row mt-5">
-        <h3 class="featurette-heading fw-bold lh-base ms-2 text-center" id="coor-de-cursos">Coordenação de Cursos</h3>
             <div class="col mt-1 ms-3">
-                <p class="lead lh-base fw-normal justify-content-between align-items-center mt-4 ms-5">A Associação de Pais e Mestres (APM) é uma instituição
-                    privada, auxiliar da escola, e tem por finalidade apoiar o processo de gestão escolar, a assistência ao aluno e a 
-                    integração escola-família-comunidade.</p>
+                <h3 class="featurette-heading fw-bold lh-base ms-2 text-center" id="coor-de-cursos">Coordenação de Cursos</h3></br>
+                <h4 class="featurette-heading fw-bold lh-base ms-5">Coordenador NOVOTEC</h4>
+                <p class="lead lh-base fw-normal justify-content-between align-items-start mt-4 ms-5">Giovanna Littiere (Novotec Administração)</br>
+                    Leandro (Novotec Logística)</br>
+                    Marcelo Collado (Novotec Desenvolvimento de Sistemas)</br>
+                    Cibelle Ferreria Francoso (Novotec RH)</br>
+                    Jeferson Roberto de Lima (Novotec Desenvolvimento de Sistemas AMS)</p></br>
+                <h4 class="featurette-heading fw-bold lh-base ms-5">Coordenador Curso Técnico</h4>
+                <p class="lead lh-base fw-normal justify-content-between align-items-start mt-4 ms-5">
+                    Monyse Tesser Panacci (Técnico em Adminstração / Técnico em Contabilidade)</br>
+                    Ediney Ciasi Barreto (Técnico em Desenvolvimento de Sistemas)</br>
+                    Silvano Lack de Brito (Técnico em Logística / Técnico em Serviços Jurídicos)
+                </p>
             </div>
         </div>
     </div>
 
 </body>
+
 </html>
