@@ -31,14 +31,14 @@
 
                     <!-- Início -->
                     <li class="nav-item">
-                        <a class="nav-link " style="margin-top: 5px; margin-left: 10px; margin-right: 10px;" aria-current="page" href="home">Início</a>
+                        <a class="nav-link " style="margin-top: 5px; margin-left: 10px; margin-right: 10px;" aria-current="page" href="/home">Início</a>
                     </li>
 
                     <!-- <a class="nav-link fw-bold py-1 px-0 active" aria-current="page" href="#">Home</a> -->
 
                     <!-- Cursos -->
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="cursos" style="margin-top: 5px; margin-left: 10px; margin-right: 10px;" role="button" 
+                        <a class="nav-link dropdown-toggle" href="/cursos" style="margin-top: 5px; margin-left: 10px; margin-right: 10px;" role="button" 
                         data-bs-toggle="dropdown" aria-expanded="false">Cursos</a>
 
                         <!-- Cursos da ETEC -->
@@ -69,7 +69,7 @@
 
                     <!-- Departamentos -->
                     <li class="nav-item dropdown ">
-                        <a class="nav-link dropdown-toggle" href="home" role="button" style="margin-top: 5px; margin-left: 10px; margin-right: 10px;" 
+                        <a class="nav-link dropdown-toggle" href="departamentos" role="button" style="margin-top: 5px; margin-left: 10px; margin-right: 10px;" 
                         data-bs-toggle="dropdown" aria-expanded="false">Departamentos</a>
 
                         <!-- Cursos da ETEC -->
@@ -177,8 +177,8 @@
         <div class="row mt-1">
             <div class="col mt-1 ms-3">
                 <h3 class="featurette-heading fw-bold lh-base ms-5 text-center" id="manual-do-aluno">Manual do Aluno</h3>
-                <a class="lead lh-base fw-normal justify-content-between align-items-center text-center mt-3 ms-5" 
-                href="https://www.eteczonaleste.com.br/manual-do-aluno/">Acesse aqui o Manual do Aluno.</a></br>
+                <p class="lead lh-base fw-normal justify-content-between align-items-center text-center mt-3 ms-5" >
+                    <a href="https://www.eteczonaleste.com.br/manual-do-aluno/">Acesse aqui o Manual do Aluno.</a></p></br>
             </div>
         </div>
     </div>
@@ -188,8 +188,8 @@
         <div class="row mt-1">
             <div class="col mt-1 ms-3">
                 <h3 class="featurette-heading fw-bold lh-base ms-5 text-center" id="regimento-comum-das-etecs">Regimento Comum das ETECs</h3>
-                <a class="lead lh-base fw-normal justify-content-between align-items-center text-center mt-3 ms-5" 
-                href="https://www.eteczonaleste.com.br/regimento-comum-das-etecs/">Acesse aqui o Regimento Comum das ETECs.</a></br>
+                <p class="lead lh-base fw-normal justify-content-between align-items-center text-center mt-3 ms-5" >
+                    <a href="https://www.eteczonaleste.com.br/regimento-comum-das-etecs/">Acesse aqui o Regimento Comum das ETECs.</a></p></br>
             </div>
         </div>
     </div>

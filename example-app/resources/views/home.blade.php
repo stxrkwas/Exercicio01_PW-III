@@ -95,7 +95,9 @@
     </nav>
 
     <!-- Imagem: -->
-    <img class="img-fluid" src="/img/home.etec.webp" width="100%" height="auto"></img>
+    <div class="container-fluid bg-body-tertiary">
+        <img class="img-fluid" src="/img/home.etec.webp" width="100%" height="auto"></img>
+    </div>
 
     <!-- Barra de pesquisa:  -->
     <div class="container-fluid bg-body-tertiary">
@@ -147,31 +149,35 @@
     </div>
 
     <!-- (3) Texto e imagem: -->
-    <div class="row featurette mt-5">
-        <div class="col-md-7 order-md-2 mt-3 ms-5">
-            <h3 class="featurette-heading fw-bold lh-base ms-5">Para além da sala de aula</h3>
-            <p class="lead lh-base fw-normal text-justify mt-4 ms-5">Buscamos levar o conhecimento para além da sala de aula tradicional.
-                Incentivamos o cultivo de conexões valiosas por meio de networking e oportunidades de carreira. Além do sucesso acadêmico,
-                nos preocupamos com o desenvolvimento pessoal de nosso corpo estudantil,
-                oferecendo suporte abrangente, orientação vocacional e programas extracurriculares.</p>
-        </div>
-        <div class="col-md-3 order-md-1 mt-3 ms-5">
-            <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto ms-5" width="600" height="600" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false" src="/img/image3.png"></img>
+    <div class="container-fluid bg-body-primary">
+        <div class="row featurette mt-5">
+            <div class="col-md-7 order-md-2 mt-3 ms-5">
+                <h3 class="featurette-heading fw-bold lh-base ms-5">Para além da sala de aula</h3>
+                <p class="lead lh-base fw-normal text-justify mt-4 ms-5">Buscamos levar o conhecimento para além da sala de aula tradicional.
+                    Incentivamos o cultivo de conexões valiosas por meio de networking e oportunidades de carreira. Além do sucesso acadêmico,
+                    nos preocupamos com o desenvolvimento pessoal de nosso corpo estudantil,
+                    oferecendo suporte abrangente, orientação vocacional e programas extracurriculares.</p>
+            </div>
+            <div class="col-md-3 order-md-1 mt-3 ms-5">
+                <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto ms-5" width="600" height="600" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false" src="/img/image3.png"></img>
+            </div>
         </div>
     </div>
 
     <!-- (4) Texto e imagem: -->
-    <div class="row featurette mt-5">
-        <div class="col-md-7 order-md-1 mt-3 ms-5">
-            <h3 class="featurette-heading fw-bold lh-base ms-5" style="text-align: justify;">Ambientes favoráveis</h3>
-            <p class="lead lh-base fw-normal text-justify mt-4 ms-5">Contamos com uma infraestrutura moderna, laboratórios e salas equipadas
-                com televisões, computadores, notebooks, impressoras 3D e muitos outros componentes propícios aos projetos que desenvolvemos
-                durante a jornada dos estudantes. Ademais, nossa instituição é envolta em um grande jardim, com árvores de pequeno e médio porte,
-                plantas e flores, provendo ao nosso corpo estudantil um ambiente mais acolhedor e aconchegante.
-                Na ETEC Zona Leste, você encontrará um espaço favorável para o impulsionar seu crescimento acadêmico e profissional.</p>
-        </div>
-        <div class="col-md-3 order-md-2 mt-3 ms-5">
-            <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="600" height="600" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false" src="/img/image4.png"></img>
+    <div class="container-fluid bg-body-primary">
+        <div class="row featurette mt-5">
+            <div class="col-md-7 order-md-1 mt-3 ms-5">
+                <h3 class="featurette-heading fw-bold lh-base ms-5" style="text-align: justify;">Ambientes favoráveis</h3>
+                <p class="lead lh-base fw-normal text-justify mt-4 ms-5">Contamos com uma infraestrutura moderna, laboratórios e salas equipadas
+                    com televisões, computadores, notebooks, impressoras 3D e muitos outros componentes propícios aos projetos que desenvolvemos
+                    durante a jornada dos estudantes. Ademais, nossa instituição é envolta em um grande jardim, com árvores de pequeno e médio porte,
+                    plantas e flores, provendo ao nosso corpo estudantil um ambiente mais acolhedor e aconchegante.
+                    Na ETEC Zona Leste, você encontrará um espaço favorável para o impulsionar seu crescimento acadêmico e profissional.</p>
+            </div>
+            <div class="col-md-3 order-md-2 mt-3 ms-5">
+                <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="600" height="600" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false" src="/img/image4.png"></img>
+            </div>
         </div>
     </div>
 

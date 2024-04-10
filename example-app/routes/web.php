@@ -21,10 +21,6 @@ Route::get('/home', function () {
     return view('home');
 });
 
-/*Route::get('/adm', function () {
-    return view('adm');
-});*/
-
 Route::get('/cursos', function () {
     return view('cursos');
 });
