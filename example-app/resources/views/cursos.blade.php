@@ -29,7 +29,7 @@
 
                     <!-- Início -->
                     <li class="nav-item">
-                        <a class="nav-link " style="margin-top: 5px; margin-left: 10px; margin-right: 10px;" aria-current="page" href="/home">Início</a>
+                        <a class="nav-link " style="margin-top: 5px; margin-left: 10px; margin-right: 10px;" aria-current="page" href="home">Início</a>
                     </li>
 
                     <!-- <a class="nav-link fw-bold py-1 px-0 active" aria-current="page" href="#">Home</a> -->
@@ -69,7 +69,7 @@
 
                     <!-- Departamentos -->
                     <li class="nav-item dropdown ">
-                        <a class="nav-link dropdown-toggle" href="home" role="button" style="margin-top: 5px; margin-left: 10px; margin-right: 10px;" data-bs-toggle="dropdown" aria-expanded="false">
+                        <a class="nav-link dropdown-toggle" href="departamentos" role="button" style="margin-top: 5px; margin-left: 10px; margin-right: 10px;" data-bs-toggle="dropdown" aria-expanded="false">
                             Departamentos
                         </a>
 
@@ -115,7 +115,7 @@
     <!-- (1) Texto e imagem: -->
     <div class="row featurette mt-5">
         <div class="col-md-7 order-md-2 mt-5 ms-5">
-            <h3 class="featurette-heading fw-bold lh-base ms-5" style="text-align: justify;" id="secao-adm">Administração</h3>
+            <h3 class="featurette-heading fw-bold lh-base ms-5" id="secao-adm">Administração</h3>
             <p class="lead lh-base fw-normal text-justify mt-4 ms-5">Como funcionam as organizações, desde empresas privadas até ONGs, passando por
                 órgãos públicos, comércio e indústria. O estudante vai precisar de conhecimentos de língua portuguesa, matemática, história e geografia
                 para compreender os principais assuntos do curso, como história da administração, evolução das organizações ao longo do tempo,
