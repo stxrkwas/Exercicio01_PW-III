@@ -174,7 +174,7 @@
     <div class="row featurette mt-5">
         <div class="col-md-7 order-md-1 mt-5 ms-5">
             <h3 class="featurette-heading fw-bold lh-base ms-5" id="secao-log">Logística</h3>
-            <p class="lead lh-base fw-normal text-justify ms-5">Logística é o planejamento do caminho feito por um produto ou serviço até 
+            <p class="lead lh-base fw-normal text-justify mt-3 ms-5">Logística é o planejamento do caminho feito por um produto ou serviço até 
                 chegar ao cliente de forma organizada, rápida e econômica. Para planejar esse caminho, o estudante vai precisar de conhecimentos 
                 de matemática, geografia e física. O aluno aprenderá sobre os processos de compra de matérias-primas, 
                 incluindo a escolha dos fornecedores, o registro dos pedidos de compra e o recebimento dos materiais adquiridos.</p></br>
@@ -187,29 +187,43 @@
             <p class="lead lh-base fw-normal text-justify ms-5">O candidato que ingressar no curso técnico de Logística, na modalidade AMS, 
                 poderá prosseguir os estudos em uma Fatec no curso superior de tecnologia em Logística.</p>
         </div>
-        <div class="col-md-3 order-md-2 mt-5 ms-5" style="margin-top: 70px;">
-            <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false" src="/img/image4.png"></img>
+        <div class="col-md-3 order-md-2 mt-5 ms-5">
+            <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" style="margin-top: 75px;" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false" src="/img/log.png"></img>
         </div>
     </div>
 
     <!-- (5) Texto e imagem: -->
     <div class="row featurette mt-5">
-        <div class="col-md-7 order-md-2 mt-3 ms-5">
+        <div class="col-md-7 order-md-2 mt-5 ms-5">
             <h3 class="featurette-heading fw-bold lh-base ms-5" id="secao-rh">Recursos Humanos</h3>
-            <p class="lead lh-base fw-normal text-justify mt-4 ms-5"></p>
+            <p class="lead lh-base fw-normal text-justify mt-4 ms-5">Anuncia vagas de emprego, descrevendo as atribuições do cargo a ser preenchido; 
+                aplica testes em processos seletivos; realiza cálculos para determinar os valores que serão descontados no salário dos funcionários, 
+                como o Imposto de Renda e a contribuição ao INSS, além de porcentagem referente a benefícios, como vale-transporte, plano de saúde etc.;
+                insere informações no sistema para a geração de demonstrativos de pagamentos (holerites ou contracheques); 
+                cuida da documentação necessária para aposentadoria, contratação e demissão de profissionais, inclusive preenchendo informações na 
+                carteira de trabalho; organiza e arquiva documentos do setor; registra e controla período de férias e afastamento de funcionários; e auxilia no treinamento e capacitação dos empregados.</p>
         </div>
-        <div class="col-md-3 order-md-1 mt-3 ms-5">
-            <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto ms-5" width="600" height="600" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false" src="/img/image3.png"></img>
+        <div class="col-md-3 order-md-1 mt-5 ms-5">
+            <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto ms-5" style="margin-top: 45px;" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false" src="/img/rh.png"></img>
         </div>
     </div>
 
     <div class="row featurette mt-5">
         <div class="col-md-7 order-md-1 mt-3 ms-5">
-            <h3 class="featurette-heading fw-bold lh-base ms-5" id="secao-jur">Serviços Jurídicos</h3>
-            <p class="lead lh-base fw-normal text-justify mt-4 ms-5"></p>
+            <h3 class="featurette-heading fw-bold lh-base mt-5 ms-5" id="secao-jur">Serviços Jurídicos</h3>
+            <p class="lead lh-base fw-normal mt-3 ms-5">
+            Como o foco do curso está nas leis e normas, o aluno vai estudar as áreas do Direito. Vai aprender sobre a Constituição Federal 
+            (direito constitucional), a punição aos crimes (direito penal), as regras para relações e disputas entre as pessoas e também as 
+            normas para disputas e questões familiares (direito civil), o funcionamento dos órgãos públicos (direito administrativo), as 
+            regras para os negócios entre empresas e pessoas (direito empresarial), como deve ser a relação entre patrão e empregado, 
+            considerando direitos e deveres de cada um (direito do trabalho), cobrança de tributos, como os impostos (direito tributário) 
+            e a proteção garantida aos consumidores (direito do consumidor), entre outros assuntos.</p></br>
+            <p class="lead lh-base fw-normal ms-5">O estudante vai conhecer também como são elaborados e redigidos os processos, 
+                contratos e documentos jurídicos. Além de aprender sobre as leis, o aluno vai estudar conceitos de administração de empresas, 
+                matemática financeira, técnicas de atendimento ao cliente e inglês instrumental. A língua portuguesa é fundamental.</p>
         </div>
         <div class="col-md-3 order-md-2 mt-3 ms-5">
-            <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="600" height="600" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false" src="/img/image4.png"></img>
+            <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" style="margin-top: 145px;" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false" src="/img/jur.png"></img>
         </div>
     </div>
 
