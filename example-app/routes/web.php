@@ -40,7 +40,3 @@ Route::get('/oportunidades', function () {
 Route::get('/vestibulinho', function () {
     return view('vestibulinho');
 });
-
-Route::get('/fornecedores', function () {
-    return view('fornecedores');
-});
